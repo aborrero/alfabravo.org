@@ -6,23 +6,69 @@
 </description>
     <link>https://alfabravo.org/</link>
     <atom:link href="https://alfabravo.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2016 13:42:41 +0200</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 13:42:41 +0200</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2016 14:47:11 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2016 14:47:11 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Post de prueba!</title>
-        <description>&lt;p&gt;Post de prueba para &lt;a href=&quot;https://alfabravo.org&quot;&gt;alfabravo&lt;/a&gt;.&lt;/p&gt;
+        <title>Documentando montañas en wikipedia</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/logowikipedia.png&quot; alt=&quot;wikipedia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Wikipedia es una herramienta y una fuente de conocimiento muy potente, que a
+dia de hoy está ya fuera de dudas como elemento esencial de internet.
+Además, es libre, lo que la hace un recurso muy interesante desde el punto
+de vista comunitario y social.&lt;/p&gt;
+
+&lt;p&gt;Debido a nuestro interes en las montañas, es de esperar que cada cierto
+tiempo miremos a Wikipedia en busca de información útil y formal sobre ellas.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, Wikipedia requiere de la contribución de usuarios para completarse,
+mejorarse y crecer.
+Hay muchas montañas que no están documentadas, no existe información sobre
+ellas, o es muy pobre.&lt;/p&gt;
+
+&lt;p&gt;Durante la temporada 2015-2016, he estado contribuyendo contenido en
+diferentes artículos sobre las montañas que he ido visitando.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/torrecilla.png&quot; alt=&quot;torrecilla&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Como usuario de Wikipedia y posible visitante de estas montañas, me gusta
+que la información que se incluya disponga de datos como meteorología,
+algunas rutas de ascensión, datos geográficos, geológicos y de origen de
+la montaña, algo de historia, etc.&lt;/p&gt;
+
+&lt;p&gt;Por supuesto, también me gustan algunos datos técnicos relativos al senderismo
+y montañismo, como desniveles, dificultades, accesos y demás.&lt;/p&gt;
+
+&lt;p&gt;De algunas montañas esta información no es fácil de obtener (y por tanto,
+contribuir), dado que no soy experto en la materia y a menudo no dispongo
+de tiempo para buscar fuentes fiables.&lt;/p&gt;
+
+&lt;p&gt;Recordemos que la Wikipedia no es una &lt;em&gt;fuente primaria&lt;/em&gt;, esto es, que la
+información contenida en ella debe provenir de algún otro sitio.&lt;/p&gt;
+
+&lt;p&gt;Algunas páginas sobre montañas a las que he contribuido:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/El_Torre%C3%B3n_(pico)&quot;&gt;El torreon&lt;/a&gt; (pico más alto de la provincia de Cadiz)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Torrecilla&quot;&gt;El torrecilla&lt;/a&gt; (pico más alto de la Sierra de las Nieves)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Pico_de_la_Ti%C3%B1osa&quot;&gt;La tiñosa&lt;/a&gt; (pico más alto de la provincia de Córdoba)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Monte_Tubqal&quot;&gt;Toubqal&lt;/a&gt; (pico más alto de Marruecos)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Nanga_Parbat&quot;&gt;Nanga Parbat&lt;/a&gt; (uno de las 14 montañas de más de 8000 msnm)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como se podrá ver, a fecha de este artículo falta mucha información, así que
+desde aquí, animo al lector a contribuir a Wikipedia.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 26 Jul 2016 12:29:06 +0200</pubDate>
-        <link>https://alfabravo.org/jekyll/update/2016/07/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://alfabravo.org/jekyll/update/2016/07/26/welcome-to-jekyll.html</guid>
+        <link>https://alfabravo.org/2016/07/26/documentando_en_wikipedia.html</link>
+        <guid isPermaLink="true">https://alfabravo.org/2016/07/26/documentando_en_wikipedia.html</guid>
         
+        <category>wikipedia</category>
         
-        <category>jekyll</category>
+        <category>montaña</category>
         
-        <category>update</category>
         
       </item>
     
