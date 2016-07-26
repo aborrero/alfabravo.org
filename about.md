@@ -4,12 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Este es el blog *alfabravo.org*, con tematica relacionada con aventuras, viajes y experiencias.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Puedes encontrar contenido sobre diversos deportes en la naturaleza:
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+* senderismo
+* montañismo
+* alpinismo
+* kayak
+* rafting
+* barranquismo
+* surf
+* snorkel
+
+Así mismo, se publican articulos sobre:
+
+* equipamiento
+* expediciones
+* materiales
+* viajes
+
+Todo el contenido del sitio tiene doble licencia:
+
+* Licencia [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
+* Licencia [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+
+Se puede acceder al código fuente en [GitHub](https://github.com/aborrero/alfabravo.org)
