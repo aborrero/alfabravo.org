@@ -7,7 +7,7 @@ tags:	[wikipedia, montaña]
 
 ![wikipedia][logowikipedia.png]
 
-Wikipedia es una herramienta y una fuente de conocimiento muy potente, que a
+[Wikipedia](https://es.wikipedia.org/) es una herramienta y una fuente de conocimiento muy potente, que a
 dia de hoy está ya fuera de dudas como elemento esencial de internet.
 Además, es libre, lo que la hace un recurso muy interesante desde el punto
 de vista comunitario y social.
