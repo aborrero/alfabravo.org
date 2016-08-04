@@ -8,7 +8,7 @@ tags:	[montañismo, senderismo]
 ![Logo Los Extraviaos][logo_extraviaos_wide.png]
 
 Corría septiembre de 2015 cuando el equipo Los Extraviaos se reunió en el
-camping Batán de las Monjas, en San Nicolás del Puerto (Sevilla) para disertar
+camping Batán de las Monjas, en San Nicolás del Puerto (Sevilla) para charlar
 sobre objetivos y propuestas de aventuras de senderismo y montañas para la
 temporada 2015/2016.
 
@@ -31,8 +31,8 @@ veces da la montaña.
 
 El entrenamiento a nivel técnico consiste en saber cómo moverse por la montaña,
 cómo usar el material específico de manera solvente (ropa, mochila, botas,
-y demás) y saber manejarse con diferentes situaciones meteorológicas.
-De hecho, hemos pasado por distintas situaciones meteorológicas durante esta
+y demás) y saber manejarse en diferentes condiciones meteorológicas.
+De hecho, hemos pasado por distintas situaciones durante esta
 preparación: lluvia, nieve, viento, hielo, ventisca, calor, poca luz
 (nocturnas), etc..
 
@@ -62,10 +62,10 @@ el [pico Torrecilla][wiki_torrecilla], en el
 [Parque Natural de la Sierra de las Nieves][wiki_sierra_nieves].
 
 Este pico ya logra transmitir la sensación y el ambiente de una gran montaña,
-de dificil acceso, de grandes distancias y de imponentes elevaciones.
+de dificil acceso, grandes distancias, e imponentes desniveles y elevaciones.
 
 En esta ocasión buscábamos enfrentarnos diréctamente a la nieve. Gracias a que
-estubimos muy atentos a la meteorología, pudimos encontrar una sierra
+estuvimos muy atentos a la meteorología, pudimos encontrar una sierra
 completamente nevada y lista para ofrecernos unas vistas, sensaciones y
 experiencias inolvidables.
 
@@ -108,14 +108,14 @@ un trekking entre Benaocaz y el Puerto del Boyar.
 
 En esta ocasión, aparte de la nieve que encontramos en los senderos y las bajas
 temperaturas, tuvimos ocasión de medirnos a una tremenda ventisca de nieve que
-nos calló en el último tramo, llegando al final de la ruta.
+nos calló en el último tramo, llegando casi al final de la ruta.
 
 ![Nevada en Grazalema][extraviaos_grazalema.jpg]
 
 La Sierra de Grazalema es maravillosa en general. En invierno, con nieve, se
 convierte en un lugar mágico.
 
-Esta ruta ocurrió el 27 de Febrero de 2016.
+Esta ruta se realizó el 27 de Febrero de 2016.
 
 ![Vistas a la sierra de Grazalema][extraviaos_grazalema_v.jpg]
 
@@ -127,10 +127,10 @@ primero donde realmente superamos la cota simbólica de los 2000 msnm.
 
 ![Subida a la Maroma][extraviaos_maroma.jpg]
 
-En esta montaña, en invierno, hay un paso llamado el Salto del Caballo al final
-del barranco por el que discurre el camino que suele estar completamente
-helado.
+En esta montaña, en invierno, hay un paso llamado el Salto del Caballo por el
+que discurre el camino y que suele estar completamente helado.
 Por este motivo, el uso de crampones fue obligatorio.
+El paso por allí fue un momento de máxima intensidad para nosotros.
 
 El invierno dejó paso a una calurosa primavera que aprovechamos para atacar
 dos picos provinciales más: el [Pico de la Tiñosa][wiki_tiñosa] (1568 msnm), y
