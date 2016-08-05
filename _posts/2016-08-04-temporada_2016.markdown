@@ -150,7 +150,7 @@ el Mulhacen.
 </iframe>
 </center>
 
-La expedición al [Mulhacen][wiki_mulhacen], con 3.478 msnm era un gran reto
+La expedición al [Mulhacen][wiki_mulhacen], con 3.478 msnm, era un gran reto
 para nuestro equipo en todos los sentidos: fisica y mentalmente, en el apartado
 ténico, en la logística, etcétera.
 
@@ -158,7 +158,7 @@ Preparamos [la expedición en 3 etapas (ver dossier)][dossier_mulhacen.pdf]:
 
  * Llegada al Refugio Poqueira desde la Hoya del Portillo
  * Ataque a cumbre desde el Refugio Poqueira y vuelta al mismo
- * Salida desde el Refugio Poqueira de vuelta a la Hola del Portillo
+ * Salida desde el Refugio Poqueira de vuelta a la Hoya del Portillo
 
 La subida hasta el refugio, a 2500 msnm ya fue un esfuerzo físico considerable,
 y por supuesto también mental.
