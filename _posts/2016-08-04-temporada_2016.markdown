@@ -47,7 +47,7 @@ una gran ventisca en la cima, con nubes muy bajas.
 Estas condiciones quedaron reflejadas en video.
 
 <center>
-<iframe width="560" height="315"
+<iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/IRIv15-syPA?rel=0"
 	frameborder="0" allowfullscreen>
 </iframe>
@@ -85,7 +85,7 @@ el intenso frio fuera un reto para el equipo.
 En esta ocasión, el uso de crampones fue altamente recomendable.
 
 <center>
-<iframe width="560" height="315"
+<iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/Y7Rd5uDAjaE"
 	frameborder="0" allowfullscreen>
 </iframe>
@@ -96,7 +96,7 @@ y valiosas para nuestra preparación. A nivel de equipo, hemos evolucionado,
 nos hemos conocido y hemos aprendido unos de los otros.
 
 <center>
-<iframe width="560" height="315"
+<iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/7VHv9PxXGOM"
 	frameborder="0" allowfullscreen>
 </iframe>
@@ -144,7 +144,7 @@ antes de embarcarnos, a finales de Junio, en el gran objetivo de la temporada:
 el Mulhacen.
 
 <center>
-<iframe width="560" height="315" 
+<iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/BnRto-gzBP8?rel=0"
 	frameborder="0" allowfullscreen>
 </iframe>
