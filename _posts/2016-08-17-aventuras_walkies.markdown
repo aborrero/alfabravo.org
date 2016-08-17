@@ -36,7 +36,7 @@ Una buena idea es establecer identificativos para cada miembro del equipo,
 nombres cortos y de fácil pronunciación, que permitan ser escuchados incluso
 en condiciones donde la transmisión no sea clara o haya interferencias.
 
-Además, deben haber una asociación inmediata entre la persona y su
+Además, debe haber una asociación inmediata entre la persona y su
 correspondiente identificativo.
 
 Hay muchos mecanismos para generar identificativos, y uno que me gusta
