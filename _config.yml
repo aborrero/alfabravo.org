@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Este es el blog 'alfabravo', con tematica relacionada con aventuras,
   viajes y experiencias.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alfabravo.org" # the base hostname & protocol for your site
+url: "http://alfabravo.org" # the base hostname & protocol for your site
 twitter_username: arturoborrero
 github_username:  aborrero
 
