@@ -26,13 +26,13 @@ estirarse y moverse a distintas velocidades, lo que supone que muy a menudo
 cada persona está en un punto diferente y que la comunicación sea imposible sin
 el uso de estos dispositivos.
 
-Cuando el grupo de aventureros se decide usar esta tecnología tan consolidada,
-deben establecerse una serie de pautas para que la comunicación sea fluida,
-efectiva y resulte realmente útil.
+Cuando el grupo de aventureros se decide a usar esta tecnología tan
+consolidada, deben establecerse una serie de pautas para que la comunicación
+sea fluida, efectiva y resulte realmente útil.
 
 ![walkie3][walkie3.png]
 
-Una buean idea es establecer identificativos para cada miembro del equipo,
+Una buena idea es establecer identificativos para cada miembro del equipo,
 nombres cortos y de fácil pronunciación, que permitan ser escuchados incluso
 en condiciones donde la transmisión no sea clara o haya interferencias.
 
