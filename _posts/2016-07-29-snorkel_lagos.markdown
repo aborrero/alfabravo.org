@@ -99,11 +99,11 @@ Lagos es un sitio al que estoy seguro que volveremos, entre otras cosas porque n
 quedado con las ganas de hacer kayak en estas aguas.
 
 
-[lagos_balanza.jpg]:	/assets/lagos_balanza.jpg
+[lagos_balanza.jpg]:	{{site.url}}/assets/lagos_balanza.jpg
 [Lagos (Portugal)]:	https://es.wikipedia.org/wiki/Lagos_(Portugal)
 [snorkel]:		https://es.wikipedia.org/wiki/Snorkel
-[lagos_google.png]:	/assets/lagos_google.png
+[lagos_google.png]:	{{site.url}}/assets/lagos_google.png
 [camping]:		http://www.turiscampo.com/
-[lagos_mapa.png]:	/assets/lagos_mapa.png
-[lagos_playa.jpg]:	/assets/lagos_playa.jpg
-[lagos_kayak.png]:	/assets/lagos_kayak.png
+[lagos_mapa.png]:	{{site.url}}/assets/lagos_mapa.png
+[lagos_playa.jpg]:	{{site.url}}/assets/lagos_playa.jpg
+[lagos_kayak.png]:	{{site.url}}/assets/lagos_kayak.png

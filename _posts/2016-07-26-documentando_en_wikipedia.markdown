@@ -51,10 +51,10 @@ Algunas páginas sobre montañas a las que he contribuido:
 Como se podrá ver, a fecha de este artículo falta mucha información, así que
 desde aquí, animo al lector a contribuir a Wikipedia.
 
-[logowikipedia.png]:	/assets/logowikipedia.png
+[logowikipedia.png]:	{{site.url}}/assets/logowikipedia.png
 [wikipedia-torrecilla]:	https://es.wikipedia.org/wiki/Torrecilla
 [wikipedia-torreon]:	https://es.wikipedia.org/wiki/El_Torre%C3%B3n_(pico)
 [wikipedia-tiñosa]:	https://es.wikipedia.org/wiki/Pico_de_la_Ti%C3%B1osa
 [wikipedia-toubqal]:	https://es.wikipedia.org/wiki/Monte_Tubqal
 [wikipedia-nanga]:	https://es.wikipedia.org/wiki/Nanga_Parbat
-[torrecilla.png]:	/assets/torrecilla.png
+[torrecilla.png]:	{{site.url}}/assets/torrecilla.png
