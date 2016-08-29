@@ -18,3 +18,5 @@ github_username:  aborrero
 
 # Build settings
 markdown: kramdown
+
+future:			false
