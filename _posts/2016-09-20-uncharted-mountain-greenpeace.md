@@ -75,7 +75,7 @@ aún nos aguardan.
 
 _Este artículo es una traducción al español del original publicado en el
 [blog][greenpeace_nz] de Greenpeace Nueva Zelanda,
-[An urcharted mountain][greenpeace_original], escrito por Andrew Davies el
+[An uncharted mountain][greenpeace_original], escrito por Andrew Davies el
 24 de septiembre de 2015._
 
 _Las imágenes también pertenecen a [Greenpeace][greenpeace.org]._
