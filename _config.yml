@@ -1,22 +1,19 @@
-# Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: alfabravo.org
-email: arturo.borrero.glez@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+#
+title:			alfabravo.org
+email:			arturo.borrero.glez@gmail.com
+description: >
   Este es el blog 'alfabravo', con tematica relacionada con aventuras,
   viajes y experiencias.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://alfabravo.org" # the base hostname & protocol for your site
-twitter_username: arturoborrero
-github_username:  aborrero
+baseurl:		""
+url:			"http://alfabravo.org"
+twitter_username:	arturoborrero
+github_username:	aborrero
 
+#
 # Build settings
-markdown: kramdown
-
+#
+markdown:		kramdown
+# to show future post, run 'jekyll serve --future'
 future:			false
