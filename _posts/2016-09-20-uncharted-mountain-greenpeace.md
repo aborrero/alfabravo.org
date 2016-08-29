@@ -16,8 +16,8 @@ tags:	[greenpeace, montaña, aventuras, mar, oceano, rainbow warrior]
 --->
 
 Suele comentarse que conocemos más sobre la superficie de la luna que sobre
-el fondo oceánico, y recientemente hemos aprendido de primera mano que esto
-es totalmente cierto.
+el [fondo oceánico][ocean_floor], y recientemente hemos aprendido de primera
+mano que esto es totalmente cierto.
 
 Una mañana muy temprano, el primer oficial Fernando estaba en el puente de
 mando.
@@ -83,6 +83,7 @@ _Las imágenes también pertenecen a [Greenpeace][greenpeace.org]._
 [pic1]:			{{site.url}}/assets/uncharted-mountain1.jpg
 [pic2]:			{{site.url}}/assets/uncharted-mountain2.jpg
 [pic3]:			{{site.url}}/assets/uncharted-mountain3.jpg
+[ocean_floor]:		http://www.scientificamerican.com/article/just-how-little-do-we-know-about-the-ocean-floor/
 [greenpeace_nz]:	http://www.greenpeace.org/new-zealand/en/blog/
 [greenpeace_original]:	http://www.greenpeace.org/new-zealand/en/blog/an-uncharted-mountain/blog/54196/
 [greenpeace.org]:	http://www.greenpeace.org/
