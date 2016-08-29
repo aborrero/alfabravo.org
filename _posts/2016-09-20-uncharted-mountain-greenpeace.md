@@ -19,10 +19,10 @@ Suele comentarse que conocemos más sobre la superficie de la luna que sobre
 el [fondo oceánico][ocean_floor], y recientemente hemos aprendido de primera
 mano que esto es totalmente cierto.
 
-Una mañana muy temprano, el primer oficial Fernando estaba en el puente de
-mando.
-En las rotaciones de turnos le tocan la guardias en el puente de 4:00-8:00
-(en dias alternos).
+Una mañana muy temprano Fernando, el primer oficial, se encontraba en el
+puente de mando.
+Tiene asignado este puesto en las rotaciones de turnos de guardia,
+de 4:00 a 8:00 en dias alternos.
 
 Comprobó las mediciones y gráficos de profundidad y en cientos de kilómetros
 a la redonda no había otra cosa que océano infinito.
@@ -30,23 +30,23 @@ El fondo estaba bastante fuera del rango de nuestro detector de profundidad,
 pero, como es habitual entre los marineros, lo dejó encendido.
 
 Sobre las 04:30 de la mañana, se dió cuenta de que estaba detectando algo.
-Una debil señal cada vez más fuerte, y luego una empinada pendiente
-claramente hacia la superficie.
+Una débil señal cada vez más fuerte, y luego una empinada pendiente
+que subía claramente hacia la superficie.
 
-Fernando nunca había visto nada parecido: una montaña sin catalogar - con el
-pico más alto a una profundidad segura bajo nosotros.
+Fernando nunca había visto nada parecido: ¡era una montaña sin catalogar! - con
+su pico más alto a una generosa profundidad bajo nosotros.
 
 ![Detector de profundida][pic2]
 
-Basándonos en la medición de nuestro instrumento, tiene probablemente más de
-5.000 metros de altitud.
-Cómo de profundo es el fondo oceánico del entorno y cuál es la forma de
-la montaña aparte del pico es algo que aún desconocemos: está fuera del
-rango de nuestro equipamiento.
+Basándonos en la medición de nuestro instrumento, la montaña posee del orden
+de 5.000 metros de altitud.
+Por otra parte, cómo de profundo es el fondo oceánico del entorno y cuál es
+la forma de la montaña aparte del pico es algo que aún desconocemos: estos
+datos están fuera del alcance de nuestro equipamiento.
 
-Hemos contactado al gobierno de Kiribati para hacerles saber que hay una
+Hemos contactado con el gobierno de Kiribati para hacerles saber que hay una
 montaña submarina sin catalogar cerca de su pais. Nos confirmaron que, de
-hecho, era desconocida para ellos.
+hecho, era desconocida incluso para ellos.
 
 También hemos contactado a la Oficina Hidrográfica del Reino Unido y
 estamos a la espera de su respuesta.
@@ -64,7 +64,7 @@ entender los efectos de estos accidentes geológicos submarinos. Algunos piensan
 que sirven como oasis para especies nómadas oceánicas.
 
 Recientes investigaciones por satélite han identificado más montañas
-submarinas (incluyendo potencialmente a esta), pero solo un pequeño porcentaje
+submarinas (quizás incluyendo a esta), pero solo un pequeño porcentaje
 de ellas han sido exploradas como es debido.
 
 Toparse con una montaña sin catalogar es un recordatorio de que, a pesar de
