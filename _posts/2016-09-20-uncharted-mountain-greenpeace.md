@@ -63,7 +63,7 @@ No ha sido hasta las últimas décadas cuando los científicos han empezado a
 entender los efectos de estos accidentes geológicos submarinos. Algunos piensan
 que sirven como oasis para especies nómadas oceánicas.
 
-Investigaciones por satélite han identificado recientemente más montañas
+Recientes investigaciones por satélite han identificado más montañas
 submarinas (incluyendo potencialmente a esta), pero solo un pequeño porcentaje
 de ellas han sido exploradas como es debido.
 
