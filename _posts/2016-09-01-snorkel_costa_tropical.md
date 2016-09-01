@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snorkel en la Costa Tropical"
-date:   2016-09-01 01:00:00 +0200
+date:   2016-09-01 05:00:00 +0200
 tags:	[snorkel, la herradura, granada, costa tropical, marina del este, maro, cantarrijan]
 ---
 
