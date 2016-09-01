@@ -10,7 +10,7 @@ tags:	[snorkel, la herradura, granada, costa tropical, marina del este, maro, ca
 Después de hacer [snorkel en Lagos (Portugal)][lagos] tenía muchas ganas de
 volver a visitar la Costa Tropical y en concreto la zona de La Herradura.
 
-En estas playas bañadas por el Mediterráneo suelen ser de piedras y cantos
+Estas playas bañadas por el Mediterráneo suelen ser de piedras y cantos
 rodados. La poca arena que puede encontrarse es gris/negra y muy gruesa.
 Las aguas suelen ser totalmente cristalinas y ricas en
 [arrecifes][wiki_arrecife].
