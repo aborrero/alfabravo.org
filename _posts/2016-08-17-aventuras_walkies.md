@@ -13,7 +13,7 @@ Quien los haya usado ha podido experimentarla a buen seguro.
 
 Permiten transmisiones en lugares remotos, como montañas y valles, sin
 necesidad de terceras partes, en completa autonomía, a diferencia de lo que
-ocurre con dispositivos moviles, que usan las redes de telefonía
+ocurre con dispositivos móviles, que usan las redes de telefonía
 habituales (y que por tanto, requieren el uso de repetidores y antenas).
 
 Esta independencia de infraestructura, junto con la posibilidad de comunicación
@@ -76,8 +76,8 @@ mecanismos de comunicación.
 ![walkie1][walkie1.png]
 
 En una situación simple lo más habitual es que la persona que quiere
-establecer la comunicación (llamemosle emisor) se identifique y pregunte por
-la persona a la que quiere contactar (llamemosle receptor).
+establecer la comunicación (llamémosle emisor) se identifique y pregunte por
+la persona a la que quiere contactar (llamémosle receptor).
 
 Entonces, el emisor debe esperar a que el receptor confirme que está a
 la escucha.
