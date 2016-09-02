@@ -18,7 +18,7 @@ Las aguas suelen ser totalmente cristalinas y ricas en
 En los últimos años, he encontrado que la meteorología de esta costa es
 ciertamente cambiante, y he podido vivir distintas situaciones en el snorkel:
 
-* aguas muy frias, se requiere neopreno para hacer snorkel
+* aguas muy frías, se requiere neopreno para hacer snorkel
 * aguas muy cálidas, se requiere neopreno para protegerse de las medusas
 * [mar de fondo][wiki_mar_de_fondo], con oleaje en la playa a pesar del poco viento
 * gran levante, que produce aguas cálidas y oleaje directo en la playa
@@ -53,7 +53,7 @@ derecha. Por tanto, si hay levante debemos hacer snorkel en la parte izquierda
 Con estos datos, si la meteorología presenta levante, ya sabemos que debemos
 buscar playas que tengan la zona interesante de snorkel a la izquierda.
 
-A continuación, un video del arrecife central y derecho  de la playa
+A continuación, un vídeo del arrecife central y derecho  de la playa
 de Cantarriján:
 
 <center>
@@ -63,7 +63,7 @@ de Cantarriján:
 </iframe>
 </center>
 
-Los dias que la visibilidad y el oleaje acompañan, estas playas pueden darnos
+Los días que la visibilidad y el oleaje acompañan, estas playas pueden darnos
 unas experiencias de snorkel ciertamente intensas, con tanta visibilidad
 sobre el fondo marino que algunas personas pueden llegar a sentir vértigo.
 
@@ -72,8 +72,8 @@ a acompañar.
 
 ![Marina del Este][marinadeleste1c.png]
 
-A parte del buceo en superfice (snorkel) Marina del Este (que también se
-conoce como Los Berengueles o Bahía del Vapor), es además un paraiso de buceo
+A parte del buceo en superficie (snorkel) Marina del Este (que también se
+conoce como Los Berengueles o Bahía del Vapor), es además un paraíso de buceo
 clásico (de profundidad).
 
 La actividad de buzos en la zona es bastante visible. Ver un buzo en el fondo
@@ -90,13 +90,13 @@ Esta medusa produce una picadura bastante dolorosa y para evitar el contacto
 se recomienda usar traje de neopreno.
 
 En la mayoría de casos, hemos visto ejemplares que nadan en la superficie
-del agua y que son dificiles de detectar haciendo snorkel debido a que se suele
+del agua y que son difíciles de detectar haciendo snorkel debido a que se suele
 ir mirando al fondo.
 
 ![Medusa en Marina del Este][medusa2.png]
 
 Algunos ejemplares de medusas que hemos visto son aún más extraños, con tonos
-amarillos y azul brillate, ejemplares bastante más grandes que los anteriores.
+amarillos y azul brillante, ejemplares bastante más grandes que los anteriores.
 
 Desconozco todo lo demás sobre estas medusas, más allá de esta imagen tomada en
 una expedición de snorkel de Los Extraviaos:
