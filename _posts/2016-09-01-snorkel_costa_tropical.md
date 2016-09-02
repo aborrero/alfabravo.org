@@ -57,7 +57,7 @@ A continuación, un video del arrecife central y derecho  de la playa
 de Cantarriján:
 
 <center>
-<iframe width="560" height="315"
+<iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/45-EEc8bM9M?list=PLl_fK7dUYicNRar4-z0QYEabyJFjWLSSi"
 	frameborder="0" allowfullscreen>
 </iframe>
