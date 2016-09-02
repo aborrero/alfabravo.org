@@ -22,14 +22,14 @@ mano que esto es totalmente cierto.
 Una mañana muy temprano Fernando, el primer oficial, se encontraba en el
 puente de mando.
 Tiene asignado este puesto en las rotaciones de turnos de guardia,
-de 4:00 a 8:00 en dias alternos.
+de 4:00 a 8:00 en días alternos.
 
 Comprobó las mediciones y gráficos de profundidad y en cientos de kilómetros
 a la redonda no había otra cosa que océano infinito.
 El fondo estaba bastante fuera del rango de nuestro detector de profundidad,
 pero, como es habitual entre los marineros, lo dejó encendido.
 
-Sobre las 04:30 de la mañana, se dió cuenta de que estaba detectando algo.
+Sobre las 04:30 de la mañana, se dio cuenta de que estaba detectando algo.
 Una débil señal cada vez más fuerte, y luego una empinada pendiente
 que subía claramente hacia la superficie.
 
@@ -45,7 +45,7 @@ la forma de la montaña aparte del pico es algo que aún desconocemos: estos
 datos están fuera del alcance de nuestro equipamiento.
 
 Hemos contactado con el gobierno de Kiribati para hacerles saber que hay una
-montaña submarina sin catalogar cerca de su pais. Nos confirmaron que, de
+montaña submarina sin catalogar cerca de su país. Nos confirmaron que, de
 hecho, era desconocida incluso para ellos.
 
 También hemos contactado a la Oficina Hidrográfica del Reino Unido y
