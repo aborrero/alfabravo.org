@@ -98,8 +98,8 @@ ir mirando al fondo.
 Algunos ejemplares de medusas que hemos visto son aún más extraños, con tonos
 amarillos y azul brillate, ejemplares bastante más grandes que los anteriores.
 
-Desconozco todo lo demás de esta medusas, más allá de la imagen siguiente,
-tomada en una expedición de snorkel de Los Extraviaos:
+Desconozco todo lo demás sobre estas medusas, más allá de esta imagen tomada en
+una expedición de snorkel de Los Extraviaos:
 
 ![Medusa en Marina del Este][medusa.png]
 
