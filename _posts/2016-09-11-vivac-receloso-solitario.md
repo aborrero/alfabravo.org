@@ -84,7 +84,8 @@ Dormir al raso estando acompañado es también otra historia distinta.
 
 ![Vivac Recesolo][pic4]
 
-_Este artículo está basado en una historia real vivida por John J. Dumbar._
+_Este artículo está basado en una historia real vivida por un amigo que quiere
+ser identificado con el nick de John J. Dumbar._
 
 _Las fotos también son suyas._
 
