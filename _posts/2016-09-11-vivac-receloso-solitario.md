@@ -36,8 +36,8 @@ Aún así, me decido a salir solo y de inmediato.
 
 ![Vivac Recesolo][pic2]
 
-Hice paradas por el camino, donde me maravillo con la cantidad de estrellas que
-veo, hasta puedo identificar la Via Lactea.
+Hice paradas por el camino en coche, donde me maravillo con la cantidad de
+estrellas que veo, hasta puedo identificar la Via Lactea.
 
 Entre una cosa y otra, cuando llego al Puerto del Boyar, serian más de las
 2 AM, y al bajar del coche tengo un sentimiento incónomodo, no me da buena
