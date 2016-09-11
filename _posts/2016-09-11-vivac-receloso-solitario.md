@@ -36,16 +36,16 @@ Aún así, me decido a salir solo y de inmediato.
 
 ![Vivac Recesolo][pic2]
 
-Hice paradas por el camino, donde me maravillé con la cantidad de estrellas que
-se ven, hasta la Via Lactea.
+Hice paradas por el camino, donde me maravillo con la cantidad de estrellas que
+veo, hasta puedo identificar la Via Lactea.
 
-Entre una cosa y otra, cuando llegué al Puerto del Boyar, serian más de las
-2 AM, y al bajarme del coche tuve un sentimiento incónomodo, no me dio buena
-pinta, recorde que cuando estuve ahí la ultima vez no me gustó.
-Así que continue con el plan previo de llegar a Jimena de la Frontera.
+Entre una cosa y otra, cuando llego al Puerto del Boyar, serian más de las
+2 AM, y al bajar del coche tengo un sentimiento incónomodo, no me da buena
+pinta. Además, recuedo que cuando estuve ahí la ultima vez no me gustó.
+Así que continuo con el plan previo de llegar a Jimena de la Frontera.
 
 Por el camino iba pensando que la mente me estaba jugando una mala pasada, y
-mi propia sugestión me estaba hacía tener miedo y recelos.
+mi propia sugestión me estaba haciendo tener miedo y recelos.
 Pensaba en animales salvajes y perros que me atacaban por la noche en el vivac.
 
 Del mismo modo, tenía la convicción de que tenía que superar mis miedos.
