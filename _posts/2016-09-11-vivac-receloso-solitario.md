@@ -29,8 +29,8 @@ de la Sierra de Grazalema, y que está relativamente cerca de Sevilla.
 Yo mismo tengo otra idea: Jimena de la Frontera, en el entorno del Parque
 Natural Los Alcornocales.
 
-Hay un gran impedimiento: de la legislación solo conozco rumores y ningún
-detalle de procedimientos a seguir, obtención de permisos, etc.
+Hay un impedimiento: de la legislación sobre vivac solo conozco rumores
+y ningún detalle de procedimientos a seguir, obtención de permisos, etc.
 
 Aún así, me decido a salir solo y de inmediato.
 
@@ -40,7 +40,7 @@ Hice paradas por el camino en coche, donde me maravillo con la cantidad de
 estrellas que veo, hasta puedo identificar la Via Lactea.
 
 Entre una cosa y otra, cuando llego al Puerto del Boyar, serian más de las
-2 AM, y al bajar del coche tengo un sentimiento incónomodo, no me da buena
+2 AM, y al bajar del coche tengo un sentimiento incómodo, no me da buena
 pinta. Además, recuedo que cuando estuve ahí la ultima vez no me gustó.
 Así que continuo con el plan previo de llegar a Jimena de la Frontera.
 
@@ -48,16 +48,17 @@ Por el camino iba pensando que la mente me estaba jugando una mala pasada, y
 mi propia sugestión me estaba haciendo tener miedo y recelos.
 Pensaba en animales salvajes y perros que me atacaban por la noche en el vivac.
 
-Del mismo modo, tenía la convicción de que tenía que superar mis miedos.
+Del mismo modo, sentía la convicción de que tenía que superar mis miedos.
 
 Llego a Jimena de la Frontera sobre las 5 AM, y aparco el coche de casualidad
 al inicio de una conocida ruta de senderismo de la zona, en medio de la nada.
 Me dieron las 5:30 AM y en mi mente, entre las historias que me estaba montando
 y con la excusa de que se iba a hacer de día, me dije: duermo en el coche.
 
-Descartada la opción del vivac, y dispuesto a dormir en el coche, empiezo a 
-escuchar escuchar ruidos extraños, como bastonazos, los que se producen con un
-palo de senderismo. Me dije a mi mismo que ahí tampoco iba a dormir tranquilo.
+Descartada la opción del vivac, y dispuesto a dormir en el asiento trasero del
+vehiculo, empiezo a escuchar escuchar ruidos extraños, como bastonazos, los que
+se producen con un palo de senderismo. Me dije a mi mismo que ahí tampoco iba
+a dormir tranquilo.
 
 La oscuridad me envolvía, así que decido volver a ponerme en marcha e ir al
 pueblo de Jimena de la Frontera. Después de dar varias vueltas, meto el
@@ -68,10 +69,10 @@ coche en una plaza y me dispongo a dormir hasta el amanecer.
 Amanecer ven a mi. Allí en el coche me encontró el milagro del despertar del
 sol.
 
-Decidido a cambiar las tornas a la experiencia, aprovecho mi estancia
-privilegiada en Jimena de la Frontera para desayunar, ver un castillo de la
-zona y embarcarme en una ruta de senderismo que coincide con una etapa del
-GR-7.
+Decidido a cambiar las tornas a la experiencia de la noche, aprovecho mi
+estancia privilegiada en Jimena de la Frontera para desayunar, ver un castillo
+de la zona y embarcarme en una ruta de senderismo que coincide con una etapa
+del GR-7.
 
 La idea original de experimentar con un vivac en medio de la naturaleza se vio
 truncada por mis recelos y la circunstancia de la soledad de la aventura.
@@ -80,7 +81,8 @@ Una de las conclusiones que saco de esta aventura es que tengo que probar
 llegando de día a la zona donde tenga previsto hacer vivac. De esta manera,
 puedo indentificar el entorno y sentirme más seguro.
 
-Dormir al raso estando acompañado es también otra historia distinta.
+Y también, tener en cuenta que dormir al raso estando acompañado es otra
+historia distinta: no asaltan tantos miedos.
 
 ![Vivac Recesolo][pic4]
 
