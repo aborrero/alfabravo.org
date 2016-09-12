@@ -77,9 +77,9 @@ del GR-7.
 La idea original de experimentar con un vivac en medio de la naturaleza se vio
 truncada por mis recelos y la circunstancia de la soledad de la aventura.
 
-Una de las conclusiones que saco de esta aventura es que tengo que probar
-llegando de día a la zona donde tenga previsto hacer vivac. De esta manera,
-puedo indentificar el entorno y sentirme más seguro.
+Una de las conclusiones que saco es que tengo que probar llegando de día a la
+zona donde tenga previsto hacer vivac. De esta manera, puedo indentificar el
+entorno y sentirme más seguro.
 
 Y también, tener en cuenta que dormir al raso estando acompañado es otra
 historia distinta: no asaltan tantos miedos.
