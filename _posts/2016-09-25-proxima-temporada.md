@@ -30,15 +30,19 @@ la temporada. Se han propuesto varias opciones, como son viajes a los
 Picos de Europa, Pirineos, o la ascensión al [monte Tubqal][wiki_tubqal]
 en Marruecos.
 
-También se ha debatido sobre la posibilidad de [descender el Guadalquivir]
-[descenso_guadalquivir] desde Sevilla hasta Sanlucar de Barrameda.
-
-El año pasado el gran objetivo de la temporada fue la ascensión al Mulhacen
-y eso nos motivó a hacer una gran temporada de montañismo.
-
 Reconozco que el ascenso al Tubqal es bastante ambicioso por nuestra
 parte, pero varios componentes del equipo estamos dispuestos a invertir
 en la aventura, tanto en la preparación física como en la expedición en si.
+También hay que tener en cuenta que el año pasado el gran objetivo de la
+temporada fue la ascensión al Mulhacen y eso nos empujó a hacer una gran
+temporada de montañismo.
+
+Con esto último quiero transmitir: tener un objetivo fuerte es una gran
+motivación y puede ayudar a superar retos personales.
+
+También se ha debatido sobre la posibilidad de [descender el Guadalquivir]
+[descenso_guadalquivir] en kayak desde Sevilla hasta Sanlucar de Barrameda,
+aunque esta aventura ha quedado descartada por el momento.
 
 ![Reunión de Los Extraviaos][foto_reunion]
 
