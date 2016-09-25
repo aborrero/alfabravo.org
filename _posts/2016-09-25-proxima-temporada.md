@@ -13,7 +13,7 @@ ha conseguido reunirse para trazar la próxima temporada de aventuras.
 La [temporada pasada fue un tremendo éxito][temporada_2015_2016], y para este
 año tenemos el reto de igualarla e incluso superarla.
 
-A la reunión hemos asistido 10 personas, y cuento al menos al menos 7 más
+A la reunión hemos asistido 10 personas, y cuento al menos 7 más
 que no han asistido por diversos motivos. El número de componentes del equipo
 para este año es prometedor.
 
