@@ -46,7 +46,7 @@ aunque esta aventura ha quedado descartada por el momento.
 
 ![Reunión de Los Extraviaos][foto_reunion]
 
-En cualquier caso, empezamaos ya mismo, con varias actividades programadas para
+En cualquier caso, empezamos ya mismo, con varias actividades programadas para
 Octubre y Noviembre de 2016.
 
 ¡Estoy deseando calzarme las botas de montaña!
