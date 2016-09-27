@@ -17,6 +17,8 @@ No hizo falta mucho para que el plan nos entusiasmara. Al buscar en Google para 
 algunas imágenes de lo que podríamos encontrarnos allí, los resultados fueron
 espectaculares.
 
+<!--more-->
+
 En un primer vistazo a estas imágenes tenemos la sensación de que estamos viendo algo
 irreal, editado o modificado de alguna manera, que no es posible que existan esas playas
 y esas aguas cristalinas tan cerca de Sevilla.

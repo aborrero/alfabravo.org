@@ -15,6 +15,8 @@ de vista comunitario y social.
 Debido a nuestro interes en las montañas, es de esperar que cada cierto
 tiempo miremos a Wikipedia en busca de información útil y formal sobre ellas.
 
+<!--more-->
+
 Sin embargo, Wikipedia requiere de la contribución de usuarios para completarse,
 mejorarse y crecer.
 Hay muchas montañas que no están documentadas, no existe información sobre

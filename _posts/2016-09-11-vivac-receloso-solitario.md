@@ -16,6 +16,8 @@ Pocas experiencias más intensas hay que el vivac, dormir al raso sin más
 techo que las estrellas y sin más cama que el suelo más mullido que se pueda
 encontrar.
 
+<!--more-->
+
 El sábado a final de la tarde, de improviso, me decido a vencer a la tentación
 de una monótona noche más de fin de semana. Voy a hacer vivac al monte, a la
 naturaleza.

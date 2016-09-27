@@ -24,6 +24,8 @@ puente de mando.
 Tiene asignado este puesto en las rotaciones de turnos de guardia,
 de 4:00 a 8:00 en días alternos.
 
+<!--more-->
+
 Comprobó las mediciones y gráficos de profundidad y en cientos de kilómetros
 a la redonda no había otra cosa que océano infinito.
 El fondo estaba bastante fuera del rango de nuestro detector de profundidad,

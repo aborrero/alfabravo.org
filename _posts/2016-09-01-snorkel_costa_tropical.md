@@ -15,6 +15,8 @@ rodados. La poca arena que puede encontrarse es gris/negra y muy gruesa.
 Las aguas suelen ser totalmente cristalinas y ricas en
 [arrecifes][wiki_arrecife].
 
+<!--more-->
+
 En los últimos años, he encontrado que la meteorología de esta costa es
 ciertamente cambiante, y he podido vivir distintas situaciones en el snorkel:
 

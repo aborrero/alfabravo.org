@@ -14,6 +14,8 @@ en las sierras y bosques de Andalucía.
 Yo mismo he tenido esas dudas, así que he invertido algo de tiempo
 informándome, unos conocimientos que ahora pongo a vuestra disposición.
 
+<!--more-->
+
 La Junta de Andalucía publicó en 2011 el **decreto 15/2011**, de 1 de febrero,
 por el que se establece el régimen general de planificación de los usos y
 actividades en los parques naturales y se aprueban medidas de agilización de

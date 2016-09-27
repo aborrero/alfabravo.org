@@ -17,6 +17,8 @@ A la reunión hemos asistido 10 personas, y cuento al menos 7 más
 que no han asistido por diversos motivos. El número de componentes del equipo
 para este año es prometedor.
 
+<!--more-->
+
 Se han propuesto variedad de actividades en diversas categorías:
 
  * senderismo y montañismo

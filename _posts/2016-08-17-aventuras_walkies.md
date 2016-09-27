@@ -16,6 +16,8 @@ necesidad de terceras partes, en completa autonomía, a diferencia de lo que
 ocurre con dispositivos móviles, que usan las redes de telefonía
 habituales (y que por tanto, requieren el uso de repetidores y antenas).
 
+<!--more-->
+
 Esta independencia de infraestructura, junto con la posibilidad de comunicación
 directa entre emisor y receptor (y grupos), hace de los walkie-talkies una
 herramienta muy interesante para las actividades de aventura.
