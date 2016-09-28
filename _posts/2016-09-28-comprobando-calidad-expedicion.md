@@ -42,7 +42,7 @@ del Sur.
 El artículo detalla también qué información básica debe ofrecer una compañia
 o un guía que se toma las cosas en serio:
 
- * debe ofrecer información general que permita obtener al cliente de una
+ * debe ofrecer información que permita obtener al cliente de una
    visión general del viaje o expedición: ruta, alojamientos, comidas, etc...
  * debe ofrecer consejos sensatos en materia de seguros.
  * debe interesarse por la salud de los clientes, antes, durante y tras el
