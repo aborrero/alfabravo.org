@@ -16,6 +16,9 @@ informándome, unos conocimientos que ahora pongo a vuestra disposición.
 
 <!--more-->
 
+[Atención: existe un nuevo artículo para corregir a este:
+Actualización sobre normativa de vivac en Andalucía.][nuevo_post]
+
 La Junta de Andalucía publicó en 2011 el **decreto 15/2011**, de 1 de febrero,
 por el que se establece el régimen general de planificación de los usos y
 actividades en los parques naturales y se aprueban medidas de agilización de
@@ -102,9 +105,13 @@ _lenguaje natural_ lo que dice el decreto 15/2011 y puede
 
 _Esta última foto es de Raul Ferrer Abella._
 
+[Atención: existe un nuevo artículo para corregir a este:
+Actualización sobre normativa de vivac en Andalucía.][nuevo_post]
+
 [pic1]:			{{site.url}}/assets/normativa-milky-way.jpg
 [pic2]:			{{site.url}}/assets/normativa-night-tent.jpg
 [pic3]:			{{site.url}}/assets/normativa-vivac-raul-ferrer-abella.jpg
 [map1]:			{{site.url}}/assets/normativa-sierra-de-las-nieves.png
 [map2]:			{{site.url}}/assets/normativa-sierra-grazalema.png
 [guia_pdf]:		{{site.url}}/assets/normativa-guia-informativa-junta.pdf
+[nuevo_post]:		{{site.url}}/2016/10/06/nueva-normativa-vivac.html
