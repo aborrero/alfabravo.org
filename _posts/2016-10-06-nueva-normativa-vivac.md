@@ -43,8 +43,7 @@ con la delegación de Málaga.
 
 El impreso de solicitud se puede encontrar en la web de la Junta de Andalucía:
 
- * Documento PDF para imprimir, rellenar a mano: [enlace impreso blanco][impreso]
- * Documento PDF autorellenable, listo para imprimir: [enlace formulario][formulario]
+ * Enlace al trámite: [link][link]
 
 En cualquier caso, el documento debe imprimirse físicamente y llevarse a un
 registro de la Junta de Andalucia.
@@ -62,5 +61,4 @@ previamente antes de realizar la solicitud de autorización.
 [sentencia]:	http://supremo.vlex.es/vid/594182438
 [ecologistas]:	http://www.ecologistasenaccion.es/article31690.html
 [contacto]:	{{site.url}}/assets/contactos_delegacion.png
-[impreso]:	http://www.juntadeandalucia.es/medioambiente/servtc1/oficinaVirtual/public/convocatoriaImpresos.jsf?cid=644
-[formulario]:	http://www.juntadeandalucia.es/medioambiente/servtc1/oficinaVirtual/public/generarImpresos/index.jsf?cid=676
+[link]:		http://www.juntadeandalucia.es/medioambiente/servtc1/oficinaVirtual/web/tramite/susopublico?zona=renpa
