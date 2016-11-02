@@ -57,8 +57,8 @@ información sobre isotermas, cota de nieve, viento en altura, etc.
 </iframe>
 </center>
 
-Hay que tener en cuenta que la calidad predicción a más de 6 días es realmente
-poco precisa y debe tomarse con cuidado.
+Hay que tener en cuenta que la precisión a más de 6 días es realmente pobre
+y debe tomarse con cuidado.
 
 A continuación dejo algunos otros artículos interesantes sobre meteorología:
 
