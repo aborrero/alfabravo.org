@@ -49,7 +49,8 @@ Y combinándolos, obtenemos la siguiente información para analizar:
 | Tolox		| eltiempo.es	| [link][eltiempo.es_tolox]	|
 
 Los datos que ofrece MeteoExploration son bastante buenos, dado que incluyen
-información sobre isotermas, cota de nieve, viento en altura, etc.
+información sobre isotermas, cota de nieve, viento en altura, etc. Sin embargo
+también he encontrado veces que esta predicción ha fallado estrepitosamente.
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
