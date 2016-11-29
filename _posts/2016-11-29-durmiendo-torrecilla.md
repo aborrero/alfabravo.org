@@ -70,7 +70,7 @@ puedo quejarme de haber pasado una mala noche.
 ![Equipo Los Extraviaos][bandera]
 
 En esta aventura hemos asistido 4 miembros del grupo Los Extraviaos, y
-aparte de nuestras grandes mochilas y cada uno llevaba aparte un buen saco
+además de nuestras grandes mochilas y cada uno llevaba aparte un buen saco
 con asuntos de casa, y fue mi caso también, lo que no me permitió disfrutar
 100% de la experiencia.
 
