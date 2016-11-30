@@ -10,15 +10,15 @@ tags:	[vivac, torrecilla]
 Por fin pudimos llevar a cabo el objetivo de dormir en el
 [pico Torrecilla][wiki_torrecilla], en la Sierra de las Nieves.
 
-Ha sido el segundo o tercer intento, tras anular anteriores por problemas con
-la meteorología. Noviembre ha llegado con una generosa bajada de temperaturas,
+Ha sido el segundo o tercer intento, tras anular anteriores por lluvias.
+Noviembre ha llegado con una generosa bajada de temperaturas,
 lo que da un buena época para salir a la montaña.
 
 <!--more-->
 
 Las mochilas iban bien cargadas, la mia pesaba en torno a 15 kg, e incluia lo
 normal para dormir por ahí: tienda de campaña de 2 plazas,
-saco de dormir para 0º, ropa de abrigo, agua y comida, y algunos otros objetos
+saco de dormir, ropa de abrigo, agua y comida, y algunos otros objetos
 típicos de las aventuras por montaña. Todo esto en una mochila de 50 litros.
 
 ![Mochilas preparadas][mochilas]
@@ -43,11 +43,12 @@ Ahora toca buscar un sitio para realizar la acampada nocturna, y aquí nos
 encontramos que en la zona de la cima no hay apenas espacio para montar
 nuestras pequeñas tiendas.
 
-Además, en la cima hace bastante viento, que no nos apetece sufrir de noche.
+Además, en la cima hace bastante viento, un viento que no nos apetece sufrir
+de noche.
 
 ![En la cima del pico Torrecilla][cima]
 
-La verdad es que invertimos un tiempo precioso buscando alternativas hasta que,
+Lo cierto es que invertimos un tiempo precioso buscando alternativas hasta que,
 in extremis, volvemos a bajar hasta el Pilar de Tolox a realizar allí la
 acampada.
 
@@ -56,23 +57,23 @@ tengamos que montar el campamento con muy poca luz.
 
 ![El campamento][campamento]
 
-Cuando se fue el sol, sentimos un frio gélido, y tardamos un buen rato en
+Cuando se fue el sol sentimos un frio gélido y tardamos un buen rato en
 calentar los sacos de dormir.
 
-La previsión meteorológica da en torno a 4º, con rachas de viento de 20km/h.
+La previsión meteorológica daba en torno a 4º, con rachas de viento de 30km/h.
 Podemos sentir cómo el viento y la humedad aumentan bastante la sensación de
 frio.
 
-En mi caso, llevaba un saco de la marca Decathlon, de 0º a -5º, que tras
-un rato dentro, logré que fuera bastante confortable. La verdad es que no
+En mi caso llevaba un saco de la marca Decathlon, de 0º a -5º, que tras
+un rato dentro logré que fuera bastante confortable. La verdad es que no
 puedo quejarme de haber pasado una mala noche.
 
 ![Equipo Los Extraviaos][bandera]
 
-En esta aventura hemos asistido 4 miembros del grupo Los Extraviaos, y
-además de nuestras grandes mochilas y cada uno llevaba aparte un buen saco
-con asuntos de casa, y fue mi caso también, lo que no me permitió disfrutar
-100% de la experiencia.
+A esta aventura hemos asistido 4 miembros del grupo Los Extraviaos, y
+además de nuestras grandes mochilas cada uno llevaba aparte un buen saco de
+preocupaciones y asuntos de casa, y fue mi caso también, lo que no me
+permitió disfrutar 100% de la expedición.
 
 Pero en cualquier caso, ha sido una experiencia que no olvidaremos :-)
 
