@@ -78,7 +78,7 @@ Pero en cualquier caso, ha sido una experiencia que no olvidaremos :-)
 
 ![Animación][together]
 
-En este post he usado fotos de John J. Dumbar, Jesus Lucena y
+En este post he usado fotos de John J. Dunbar, Jesus Lucena y
 Salvador Castillo.
 
 [bandera]:			{{site.url}}/assets/vivac-torrecilla-bandera.jpg

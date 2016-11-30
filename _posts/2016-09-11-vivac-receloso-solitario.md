@@ -89,7 +89,7 @@ historia distinta: no asaltan tantos miedos.
 ![Vivac Recesolo][pic4]
 
 _Este artículo está basado en una historia real vivida por un amigo que quiere
-ser identificado con el nick de John J. Dumbar._
+ser identificado con el nick de John J. Dunbar._
 
 _Las fotos también son suyas._
 
