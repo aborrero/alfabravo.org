@@ -36,8 +36,9 @@ dinero. Y el mio es un enfoque low-cost :-)
 
 ![Descargando desde Wikiloc][descarga]
 
-Para conseguir las trazas y rutas, busco en internet, Wikiloc o similares,
-de donde descargo los ficheros **.gpx**, con todos los waypoints posibles.
+Para conseguir las trazas y rutas, busco en internet, [Wikiloc][wikiloc]
+o similares, de donde descargo los ficheros **.gpx**, con todos los
+waypoints posibles.
 
 Una vez conseguido el fichero .gpx, lo importo en View Ranger, usando la opción
 "Importar desde un dispositivo externo", que nos permitirá seleccionar
@@ -80,3 +81,4 @@ junto con View Ranger.
 [viewranger_tracks]:		{{site.url}}/assets/viewranger_tracks.png
 [gmpatapumparriba]:		http://gmpatapumparriba.blogspot.com.es/
 [play_gpsstatus]:		https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2
+[wikiloc]:			http://es.wikiloc.com/
