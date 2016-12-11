@@ -23,8 +23,8 @@ típicos de las aventuras por montaña. Todo esto en una mochila de 50 litros.
 
 ![Mochilas preparadas][mochilas]
  
-El sábado 19 de Noviembre salimos de casa en dirección a la montaña con vistas
-a volver al dia siguiente con una gran aventura que contar.
+El sábado 19 de Noviembre salimos de casa en dirección a la montaña con el
+objetivo de volver al dia siguiente con una gran aventura que contar.
 
 Seguimos la ruta normal, y empezamos a andar por la Cañada del Cuerno sobre
 las 13:30 del medio dia, con vistas a llegar a la cima del Torrecilla sobre
