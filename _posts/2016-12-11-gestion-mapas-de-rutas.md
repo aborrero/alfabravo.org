@@ -40,8 +40,8 @@ Para conseguir las trazas y rutas, busco en internet, Wikiloc o similares,
 de donde descargo los ficheros **.gpx**, con todos los waypoints posibles.
 
 Una vez conseguido el fichero .gpx, lo importo en View Ranger, usando la opción
-"Importar desde un dispositivo externo", que no permitirá seleccionar cualquier
-fichero del dispositivo (e incluso desde Dropbox o similares).
+"Importar desde un dispositivo externo", que nos permitirá seleccionar
+cualquier fichero del dispositivo (e incluso desde Dropbox o similares).
 
 ![Importando traza en View Ranger][viewranger_import]
 
