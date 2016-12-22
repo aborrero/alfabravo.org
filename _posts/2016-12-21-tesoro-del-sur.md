@@ -46,7 +46,7 @@ Me gustaría dejar aquí enlaces para su visualización online. Cada uno de los
 cuatro episodios gira en torno a una estación:
 
 1. Rumores y Escarchas (invierno) [[youtube]][ytb_ep1] [[rtve]][rtve_ep1]
-2. Otaña (otoño) [[youtube]][ytb_ep2] [[rtve]][rtve_ep2]
+2. Otoñá (otoño) [[youtube]][ytb_ep2] [[rtve]][rtve_ep2]
 3. Monte inteligente (primavera) [[youtube]][ytb_ep3] [[rtve]][rtve_ep3]
 4. Vida al límite (verano) [[youtube]][ytb_ep4] [[rtve]][rtve_ep4]
 
