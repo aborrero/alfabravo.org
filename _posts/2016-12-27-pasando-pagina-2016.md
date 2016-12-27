@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pasando la página de 2016"
-date:   2016-12-21 20:30:00 +0200
+date:   2016-12-27 15:30:00 +0200
 tags:	[los extraviaos, 2016]
 ---
 
