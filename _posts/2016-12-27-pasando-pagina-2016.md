@@ -10,7 +10,7 @@ tags:	[los extraviaos, 2016]
 Ha llegado el final del año 2016, y 2017 nos aguarda.
 
 Mi compañero Salvador Castillo ha querido plasmar este hecho en un
-video resumen que ha elaborado el cariño que le caracteriza.
+video resumen que ha elaborado con el cariño que le caracteriza.
 
 Desde el punto de vista de las aventuras del equipo Los Extraviaos ha sido
 un éxito, ya que el final de la [temporada de montaña 2015/2016][old_temp] fue
