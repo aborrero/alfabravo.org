@@ -30,3 +30,8 @@ Todo el contenido del sitio tiene doble licencia:
 * Licencia [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
 
 Se puede acceder al código fuente en [GitHub](https://github.com/aborrero/alfabravo.org)
+
+Tengo otro blog sobre tecnología, escrito en inglés:
+[ral-arturo.org][ral-arturo.org].
+
+[ral-arturo.org]:		http://ral-arturo.org
