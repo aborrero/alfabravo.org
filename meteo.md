@@ -13,6 +13,12 @@ resultan de interés recurrente.
  * tiempo.com: [Constantina][tiempo.com_constantina], [Cazalla][tiempo.com_cazalla], [San Nicolas del Puerto][tiempo.com_sannicolas]
  * eltiempo.es: [Constantina][eltiempo.es_constantina], [Cazalla][eltiempo.es_cazalla], [San Nicolas del Puerto][eltiempo.es_sannicolas]
 
+#### Parque Natural de los Alcornocales, Cadiz
+
+ * AEMET: [Alcalá de los Gazules][aemet_gazules], [Castellar de la Frontera][aemet_castellar], [Jimena de la Frontera][aemet_jimena]
+ * tiempo.com: [Alcalá de los Gazules][tiempo.com_gazules], [Castellar de la Frontera][tiempo.com_castellar], [Jimena de la Frontera][tiempo.com_jimena]
+ * eltiempo.es: [Alcalá de los Gazulez][eltiempo.es_gazules], [Castellar de la Frontera][eltiempo.es_castellar], [Jimena de la Frontera][eltiempo.es_jimena]
+
 #### Torrecilla, Sierra de las Nieves, Málaga
 
  * AEMET: [Ronda][aemet_ronda], [Yunquera][aemet_yunquera], [Tolox][aemet_tolox]
@@ -47,5 +53,14 @@ resultan de interés recurrente.
 [aemet_sannicolas]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/san-nicolas-del-puerto-id41088
 [tiempo.com_sannicolas]:	http://www.tiempo.com/san-nicolas-del-puerto.htm
 [eltiempo.es_sannicolas]:	https://www.eltiempo.es/san-nicolas-del-puerto.html
+[aemet_gazules]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/alcala-de-los-gazules-id11001
+[tiempo.com_gazules]:		http://www.tiempo.com/alcala-de-los-gazules.htm
+[eltiempo.es_gazules]:		https://www.eltiempo.es/alcala-de-los-gazules.html
+[aemet_castellar]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/castellar-de-la-frontera-id11013
+[tiempo.com_castellar]:		http://www.tiempo.com/castellar-de-la-frontera.htm
+[eltiempo.es_castellar]:	https://www.eltiempo.es/castellar-de-la-frontera.html
+[aemet_jimena]:			http://www.aemet.es/es/eltiempo/prediccion/municipios/jimena-de-la-frontera-id11021
+[tiempo.com_jimena]:		http://www.tiempo.com/jimena-de-la-frontera.htm
+[eltiempo.es_jimena]:		https://www.eltiempo.es/jimena-de-la-frontera.html
 [aemet.es_windchill]:           http://www.aemet.es/es/conocermas/montana/detalles/sensaciontermica
 [windchill]:			{{site.url}}/assets/aemet_windchill.png
