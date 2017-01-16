@@ -34,7 +34,7 @@ el [GR-48][gr48].
 
 La Sierra Norte es un lugar muy bonito, y se disfruta especialmente el invierno,
 cuando el fuerte calor del verano da tregua. Hizo una meteorología
-privilegiada, con frio bastante agradable y para el que ibamos bien preparados.
+privilegiada, con frío bastante agradable y para el que íbamos bien preparados.
 
 ![Bosque][sierra_norte04]
 
@@ -44,7 +44,7 @@ un sitio muy recomendable, y en el que recibimos un trato estupendo.
 
 Durante el camino pasamos por varias áreas recreativas, muy bien cuidadas y
 equipadas, lo que contribuyó a hacernos más amenos los tiempos de espera del
-tren, que desde mi punto de vista fue lo único que deslució un poco el dia.
+tren, que desde mi punto de vista fue lo único que deslució un poco el día.
 
 En definitiva, una buena jornada. Llegamos cansados a casa, pero satisfechos.
 En esta actividad hemos participado 10 personas, del grupo Los Extraviaos.
