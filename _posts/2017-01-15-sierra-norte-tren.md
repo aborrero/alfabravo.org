@@ -27,9 +27,9 @@ Habíamos seleccionado la ruta de senderismo [Las Laderas, Cazalla][ruta],
 que no reviste ningún tipo de dificultad técnica. Como además es la primera
 actividad del año 2017, buscábamos algo poco exigente físicamente.
 
-Salvo algunos tramos que son muy nonitos, esta ruta discurre principalmente
-por carriles de tierra / pista forestal, lo que le resta algo de magia al
-camino. También cabe resaltar que parte del recorrido coincide con
+Salvo algunos tramos que son ciertamente preciosos, esta ruta discurre
+principalmente por carriles de tierra / pista forestal, lo que le resta algo
+de magia al camino. También cabe resaltar que parte del recorrido coincide con
 el [GR-48][gr48].
 
 La Sierra Norte es un lugar muy bonito, y se disfruta especialmente el invierno,
