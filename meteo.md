@@ -37,6 +37,18 @@ resultan de interés recurrente.
 </iframe>
 </center>
 
+#### Maroma, Parque Natural Sierra de Tejeda, Almijara y Alhama, Málaga
+
+ * AEMET: [Alhama de Granada][aemet_alhama], [Canillas de Aceituno][aemet_canillas], [Alcaucin][aemet_alcaucin]
+ * tiempo.com: [Alhama de Granada][tiempo.com_alhama], [Canillas de Aceituno][tiempo.com_canillas], [Alcaucin][tiempo.com_alcaucin]
+ * eltiempo.es: [Alhama de Granada][eltiempo.es_alhama], [Canillas de Aceituno][eltiempo.es_canillas], [Alcaucin][eltiempo.es_alcaucin]
+
+<center>
+<iframe width="450" height="350" frameborder="0" scrolling="no"
+        src="http://www.meteoexploration.com/mountain/getweather.php?code=IBP053&lang=es&si=Metric&wgsz=1">
+</iframe>
+</center>
+
 <!-- windchill -->
 
 ![windchill][windchill]
@@ -77,5 +89,14 @@ resultan de interés recurrente.
 [aemet_benaocaz]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/benaocaz-id11009
 [tiempo.com_benaocaz]:		http://www.tiempo.com/benaocaz.htm
 [eltiempo.es_benaocaz]:		https://www.eltiempo.es/benaocaz.html
+[aemet_alhama]:			http://www.aemet.es/es/eltiempo/prediccion/municipios/alhama-de-granada-id18013
+[tiempo.com_alhama]:		http://www.tiempo.com/alhama-de-granada.htm
+[eltiempo.es_alhama]:		https://www.eltiempo.es/alhama-de-granada.html
+[aemet_canillas]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/canillas-de-aceituno-id29033
+[tiempo.com_canillas]:		http://www.tiempo.com/canillas-de-aceituno.htm
+[eltiempo.es_canillas]:		https://www.eltiempo.es/canillas-de-aceituno.html
+[aemet_alcaucin]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/alcaucin-id29002
+[tiempo.com_alcaucin]:		http://www.tiempo.com/alcaucin.htm
+[eltiempo.es_alcaucin]:		https://www.eltiempo.es/alcaucin.html
 [aemet.es_windchill]:           http://www.aemet.es/es/conocermas/montana/detalles/sensaciontermica
 [windchill]:			{{site.url}}/assets/aemet_windchill.png
