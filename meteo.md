@@ -25,11 +25,12 @@ resultan de interés recurrente.
  * tiempo.com: [El Bosque][tiempo.com_bosque], [Grazalema][tiempo.com_grazalema], [Benaocaz][tiempo.com_benaocaz]
  * eltiempo.es: [El Bosque][eltiempo.es_bosque], [Grazalema][eltiempo.es_grazalema], [Benaocaz][eltiempo.es_benaocaz]
 
-#### Torrecilla, Sierra de las Nieves, Málaga
+#### Sierra de las Nieves, Málaga
 
  * AEMET: [Ronda][aemet_ronda], [Yunquera][aemet_yunquera], [Tolox][aemet_tolox]
  * tiempo.com: [Ronda][tiempo.com_ronda], [Yunquera][tiempo.com_yunquera], [Tolox][tiempo.com_tolox]
  * eltiempo.es: [Ronda][eltiempo.es_ronda], [Yunquera][eltiempo.es_yunquera], [Tolox][eltiempo.es_tolox]
+ * Torrecilla: [meteoexploration.com][me_torrecilla]
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
@@ -37,11 +38,12 @@ resultan de interés recurrente.
 </iframe>
 </center>
 
-#### Maroma, Parque Natural Sierra de Tejeda, Almijara y Alhama, Málaga
+#### Parque Natural Sierra de Tejeda, Almijara y Alhama, Málaga
 
  * AEMET: [Alhama de Granada][aemet_alhama], [Canillas de Aceituno][aemet_canillas], [Alcaucin][aemet_alcaucin]
  * tiempo.com: [Alhama de Granada][tiempo.com_alhama], [Canillas de Aceituno][tiempo.com_canillas], [Alcaucin][tiempo.com_alcaucin]
  * eltiempo.es: [Alhama de Granada][eltiempo.es_alhama], [Canillas de Aceituno][eltiempo.es_canillas], [Alcaucin][eltiempo.es_alcaucin]
+ * La Maroma: [mountain-forecast.com][mf_maroma], [meteoexploration.com][me_maroma]
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
@@ -98,5 +100,8 @@ resultan de interés recurrente.
 [aemet_alcaucin]:		http://www.aemet.es/es/eltiempo/prediccion/municipios/alcaucin-id29002
 [tiempo.com_alcaucin]:		http://www.tiempo.com/alcaucin.htm
 [eltiempo.es_alcaucin]:		https://www.eltiempo.es/alcaucin.html
+[me_torrecilla]:		http://meteoexploration.com/forecasts/Torrecilla/index.php?lang=es&si=Metric
+[mf_maroma]:			http://www.mountain-forecast.com/peaks/La-Maroma/forecasts/2066
+[me_maroma]:			http://meteoexploration.com/forecasts/Maroma/index.php?lang=es&si=Metric
 [aemet.es_windchill]:           http://www.aemet.es/es/conocermas/montana/detalles/sensaciontermica
 [windchill]:			{{site.url}}/assets/aemet_windchill.png
