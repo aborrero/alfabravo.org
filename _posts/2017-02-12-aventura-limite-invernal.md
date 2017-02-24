@@ -17,6 +17,11 @@ buscábamos, y más.
 
 <!--more-->
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5txlMmA_z4E"
+	frameborder="0" allowfullscreen></iframe>
+</center>
+
 Salimos de casa a las 7:30 con el objetivo de empezar a subir la montaña sobre
 las 10:00. Cuando llegamos a la zona de Ronda somos recibidos con poco viento,
 frio, en torno a 4º, y lluvia ligera pero constante. 
