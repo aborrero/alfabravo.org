@@ -45,15 +45,16 @@ El impreso de solicitud se puede encontrar en la web de la Junta de Andalucía:
 
  * Enlace al trámite: [link][link]
 
-En cualquier caso, el documento debe imprimirse físicamente y llevarse a un
-registro de la Junta de Andalucia.
+El documento debe imprimirse físicamente y llevarse a un registro de la Junta
+de Andalucia ya que hacerlo mediante firma electrónica es una auténtica
+tortura.
 
 ![Acampada nocturna][pic2]
 
 En cualquier caso, cada Parque Natural puede tener sus propias reglas aparte
 de las establecidas en la Ley. Por tanto, será necesario informarse
-previamente antes de realizar la solicitud de autorización.
-
+diréctamente con ellos previamente antes de realizar la solicitud de
+autorización.
 
 [pic1]:		{{site.url}}/assets/normativa-milky-way.jpg
 [pic2]:		{{site.url}}/assets/normativa-night-tent.jpg
