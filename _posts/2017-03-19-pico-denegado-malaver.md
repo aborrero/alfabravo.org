@@ -27,6 +27,8 @@ Cuando empezamos a andar encontramos que la subida por el pinar que hay en las
 faldas del monte es bastante dura debido a la fuerte pendiente.
 Aún así, alcanzamos sin mayores problemas las cotas altas de la montaña.
 
+![Mapa][mapa]
+
 En todas las descripciones de la ruta que habia encontrado se mencionaba
 la presencia de vallas que habría que sortear, e íbamos con la idea de hacerlo
 sin ningún tipo de miramiento.
@@ -59,3 +61,4 @@ Referencias:
 [radio]:		{{site.url}}/assets/20170318-01-malaver-pmr77.jpg
 [track]:		https://es.wikiloc.com/wikiloc/view.do?id=6095828
 [descripcion]:		http://www.rutasyfotos.com/2013/10/cerro-malaver-desde-Montecorto.html
+[mapa]:			{{site.url}}/assets/20170318-03-malaver-mapa.png
