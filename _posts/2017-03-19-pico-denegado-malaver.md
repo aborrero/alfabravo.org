@@ -46,7 +46,7 @@ con el viento que había en las cotas altas la temperatura se compensaba bastant
 
 Cuando estábamos en la parte alta de la montaña hice pruebas de comunicación en
 el [canal 7.7 de radio montaña][pmr77], y contacté con unos compañeros que
-estaban en el Peñon Gordo de Grazalema, a unos 11 km lineades de distancia.
+estaban en el Peñon Gordo de Grazalema, a unos 11 km lineales de distancia.
 
 Referencias:
 
