@@ -7,7 +7,7 @@ tags:	[montaña, pico malaver]
 
 ![Valla][valla]
 
-Ayer sábado 18 de Marzo de 2017 fuimos a conocer un nuevo pico, desconocido
+Ayer sábado 18 de Marzo de 2017 fuimos a conocer un nuevo sitio, desconocido
 para nosotros hasta hace poco, el Pico Malaver (1.122 msnm).
 
 Esta montaña se encuentra en la localidad de [Montecorto][wiki_montecorto], en
@@ -17,7 +17,7 @@ castillo de Zahara de la Sierra, desde donde puede verse.
 <!--more-->
 
 Al buscar información en internet, encontré varias descripciones sobre su
-ascenso desde el pueblo, con datos que prometedores: desnivel asequible,
+ascenso desde el pueblo, con datos prometedores: desnivel asequible,
 kilometraje reducido, senderos establecidos, etc.
 
 Tras comentarlo con los compañeros del equipo Los Extraviaos, nos reunimos 5
