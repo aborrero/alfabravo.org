@@ -61,6 +61,17 @@ solvencia.
 Nos fundimos con la naturaleza. Mágia pura. Esta ha sido una de las mejores
 aventuras que he vivido hasta ahora en las montañas.
 
+Un video resumen del dia:
+
+<center>
+<iframe width="640" height="360"
+	src="https://www.youtube-nocookie.com/embed/t9osy9iblkc?rel=0&amp;controls=0"
+	frameborder="0" allowfullscreen>
+</iframe>
+</center>
+
+_En este post he usado fotos y videos de Salvador Castillo Posada_
+
 [pinsapar]:		{{site.url}}/assets/20170408-02-pinsapar.png
 [torreon]:		{{site.url}}/assets/20170408-03-pinsapar-torreon.png
 [equipo]:		{{site.url}}/assets/20170408-01-pinsapar-todos.png
