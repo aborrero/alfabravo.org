@@ -87,8 +87,8 @@ placentera pero no logramos descansar del todo bien. Quizás nuestros sacos
 de dormir eran demasiado cálidos: dentro hacía calor de más y fuera hacía frio.
 
 Conseguimos empezar a andar sobre las 7:40 de la mañana, una hora que en
-principio no está demasiado mal. Pero esta historia se merece continuar en otro
-artículo aparte :-)
+principio no está demasiado mal. Pero esta historia se merece [continuar en otro
+artículo aparte][pt2] :-)
 
 _En este post, las tres primeras fotos son de Jesus Lucena Cintado._
 
@@ -96,3 +96,4 @@ _En este post, las tres primeras fotos son de Jesus Lucena Cintado._
 [cartel]:		{{site.url}}/assets/20170415-02-mulhacen-cartel.png
 [habitacion]:		{{site.url}}/assets/20170415-03-mulhacen-habitacion.png
 [refugio]:		{{site.url}}/assets/20170415-01-mulhacen-refugio.png
+[pt2]:			{{site.url}}/2017/04/17/aventura-mulhacen2.html
