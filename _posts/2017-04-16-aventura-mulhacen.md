@@ -52,7 +52,7 @@ Por el camino nos detenemos a almozar. Nos adelantan algunos grupos de
 montañeros bastante variopintos: un numeroso grupo de aragoneses, otro
 de ingleses, también gente que baja de vuelta, etc.
 A medio camino, en una pared inclinada de nieve, vemos cómo un equipo
-de montañeros está practicando con piolet y crampones, autodetencción,
+de montañeros está practicando con piolet y crampones, autodetención,
 piolet tracción y otras técnicas de progresión.
 
 Finalmente, tras aproximadamente 4 horas llegamos al Refugio Poqueira, donde
