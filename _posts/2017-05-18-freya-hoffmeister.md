@@ -9,7 +9,7 @@ tags:	[kayak, mar]
 _(Copyright Freya Hoffmeister - [freyahoffmeister.com][freya_web])_
 
 Recientemente he leido el libro "Fearless", escrito por Joe Glickman, y que
-narra las aventuras de Freya Hoffmeister para cirunnavegar Australia en kayak.
+narra las aventuras de Freya Hoffmeister para circunnavegar Australia en kayak.
 
 Al hacerlo, en 2009, Freya se convirtió en la primera mujer en realizar esta
 gesta, siendo además 28 días más rápida que la única persona que lo había
