@@ -22,7 +22,7 @@ future:			false
 # Pagination config
 #
 gems:			[jekyll-paginate]
-paginate:		10
+paginate:		15
 paginate_path:		"/page:num/"
 
 
