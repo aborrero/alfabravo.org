@@ -14,7 +14,7 @@ nocturna en la Sierra de las Nieves, empezando desde Yunquera
 
 Para solicitar los permisos a la Delegación Provincial de la Consejería de
 Medio Ambiente de la Junta de Andalucía he seguido el procedimiento descrito
-en el artículo "[Actualización sobre normativa de vivac en Andalucía][vivac]".
+en el artículo "[Normativa sobre acampada nocturna y vivac en Andalucía][vivac]".
 
 <!--more-->
 
@@ -40,5 +40,5 @@ pico Torrecilla.
 La aventura promete!
 
 [tiendas]:		{{site.url}}/assets/vivac_grazalema_camp1.jpg
-[vivac]:		{{site.url}}/2016/10/06/nueva-normativa-vivac.html
+[vivac]:		{{site.url}}/2016/09/13/normativa-vivac.html
 [mapa]:			{{śite.url}}/assets/20170427-mapa-vivac-yunquera.png
