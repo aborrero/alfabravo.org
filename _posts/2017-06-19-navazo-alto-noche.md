@@ -44,7 +44,7 @@ En torno a las 22:00, la hora prevista, alcanzamos la cima del Navazo Alto.
 
 El último tramo de subida lo realizamos junto a otro grupo de aventureros
 (científicos) que se disponen a hacer noche en la base de la cima, una terraza
-de hierva que, la verdad sea dicha, tiene una pinta estupenda.
+de hierba que, la verdad sea dicha, tiene una pinta estupenda.
 Con este grupo estamos un buen rato charlando, y entre otras cosas,
 nos trasmiten un montón de historias de expediciones científicas a lugares
 lejanos, volcanes en la antártida en buques oceanográficos.
