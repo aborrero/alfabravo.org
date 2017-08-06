@@ -177,11 +177,11 @@ intentar sacar el máximo de aprendizajes.
 ¿Repetiría? Quizás si, en el futuro, pero mi foco sería en ganar confianza
 antes de avanzar.
 
-A la empresa, Buceonatura, les envio este testimonio. Aunque creo que han hecho
+Parece que no soy el único que ha tenido esta problemática y que
+[ansiedad y buceo][evaluacion] van de la mano. Así que a la empresa,
+Buceonatura, les envio este testimonio. Aunque creo que han hecho
 un buen trabajo, quizás quieran evaluar su procedimiento de bautizo cuando se
 encuentren con gente extra racional como yo :-)
-Parece que no soy el único que ha tenido esta problemática y que
-[ansiedad y buceo][evaluacion] van de la mano.
 
 [wiki_herradura]:	https://es.wikipedia.org/wiki/La_Herradura
 [post_snorkel]:		{{site.url}}/2016/09/01/snorkel_costa_tropical.html
