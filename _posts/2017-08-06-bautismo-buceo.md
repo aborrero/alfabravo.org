@@ -70,7 +70,7 @@ _(Copyright 2017 - Agata Borrero González)_
 Llegada la hora de la verdad, toca tirarse al agua. Nos cuelgan los cinturones
 de lastre, en función del peso y talla de cada uno, teniendo en cuenta el
 espesor del traje de neopreno usado. Como solo hay 3 instructores para la
-inmersión, Miguel, Rafa y Miguel Angel, nos toca esperar turno para bajar.
+inmersión, Miguel, Rafael y Miguel Angel, nos toca esperar turno para bajar.
 En mi caso, me tocará esperar al último turno.
 
 La actividad consiste en recorrer el arrecife con un itinerario preestablecido,
@@ -82,7 +82,7 @@ _(Copyright 2017 - Buceonatura [www.buceonatura.com](http://www.buceonatura.com)
 
 Me tiro al agua y me coloco con ayuda de mi instructor, Miguel Angel, el
 equipamiento: jacket, botella, reguladores, aletas, máscara, etc.
-Nada más meterle el regulador en la boca, aún en la superficie, ya noto que
+Nada más meterme el regulador en la boca, aún en la superficie, ya noto que
 algo no va bien, que me cuesta trabajo respirar con normalidad. Noto que tengo
 que aspirar con demasiada fuerza para que salga el aire. Se lo comento a mi
 instructor, que comprueba el funcionamiento del equipo y me dedica unas palabras
@@ -142,7 +142,7 @@ Cuando llegué al barco, mi expresión corporal contrastaba con la de mis otros
 pletóricos de la emoción. Ellos si que habían disfrutado de la actividad
 plenamente.
 
-Aquí dejo unos video del arrecife, grabado por Sergio García Durán:
+Aquí dejo unos videos del arrecife, grabados por Sergio García Durán:
 
 <center>
 <iframe width="640" height="360"
