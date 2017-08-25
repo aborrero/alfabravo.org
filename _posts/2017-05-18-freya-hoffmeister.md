@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Negando internet: Freya Hoffmeister"
+title:  "Navegando internet: Freya Hoffmeister"
 date:   2017-05-18 07:00:00 +0200
 tags:	[kayak, mar]
 ---
