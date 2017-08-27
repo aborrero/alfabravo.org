@@ -79,7 +79,7 @@ Tras la comida vienen más chapuzones y aprovechamos también para hacer algunas
 pruebas con las piraguas: subirnos desde el agua, volcarlas para ver cómo
 funciona el vaciado, etc.
 
-Aquí tenemos un video del en la isla:
+Aquí tenemos un video mientras nos comemos el bocadillo en la isla:
 
 <center>
 <iframe width="560" height="315"
