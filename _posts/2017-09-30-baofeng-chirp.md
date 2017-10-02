@@ -64,6 +64,9 @@ una copia de la configuración de fábrica que trae el aparato, por si acaso.
 La configuración se puede guardar y leer de ficheros de nuestro disco duro,
 de manera que podamos aplicar la misma a distintos aparatos.
 
+Una vez tengamos una configuración, será necesario _subirla_ al aparato usando
+el menú "Radio" de CHIRP. Simple y eficaz.
+
 [walkie]:	{{site.url}}/assets/zahara_pmr77.jpg
 [conf]:		{{site.url}}/assets/20170930-01-chirp_conf.png
 [freq]:		{{site.url}}/assets/20170930-02-chirp_freq.png
