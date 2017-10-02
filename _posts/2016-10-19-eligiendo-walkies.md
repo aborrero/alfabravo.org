@@ -57,7 +57,7 @@ Según la legislación aplicable, la posesión y uso de estos aparatos puede
 requerir papeleos adicionales, licencias y certificaciones.
 
 Además, estos walkie talkies suelen requerir unos conocimientos un poco más
-avanzados para su manejo (quizás haya incluso que programarlos).
+avanzados para su manejo (quizás haya incluso que [programarlos][chirp]).
 
 Para uso semi-profesional, de aventuras, mi recomendación es la
 **gama UV del fabricante Baofeng**, siendo el simple **UV-5R** la mejor opción.
@@ -88,3 +88,4 @@ Von Peter Haas, CC BY-SA 3.0, [original][wiki_orig_bao]_.
 [baofeng]:			{{site.url}}/assets/baofeng_uv5ra.png
 [wiki_user_Pezi]:		https://commons.wikimedia.org/wiki/User:P_e_z_i
 [wiki_orig_bao]:		https://commons.wikimedia.org/w/index.php?curid=33694631
+[chirp]:			{{site.url}}/2017/09/30/baofeng-chirp.html
