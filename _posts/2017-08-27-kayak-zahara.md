@@ -93,11 +93,11 @@ A eso de las 14:45 iniciamos la marcha de vuelta.
 Al poco de partir, nos encontramos con uno de los momentos más exigentes de la
 aventura, cuando uno de los compañeros vuelca accidentalmente su piragua, que
 no es autovaciante, y que se llena inmediatamente de agua.
-Al intentar subirse de nuevo, le entra más agua aún, lo que la inutiliza
+Al intentar subirse de nuevo, le entra más agua aún, lo que inutiliza
 completamente el kayak.
 
 Desconocemos cualquier [mecanismo para el vaciado][vaciado], así que nos
-vemos obligados a remolcar el kayak hasta la orilla para vaciarlo con los
+vemos obligados a remolcar el kayak hasta la orilla para sacar el agua con los
 pies en tierra firme.
 
 ![Capsize][capsize]
