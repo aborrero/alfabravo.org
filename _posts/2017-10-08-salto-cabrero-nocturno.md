@@ -13,7 +13,7 @@ para [acampar 2 noches en la Sierra de Grazalema][post] debido a que la Junta
 de Andalucía traspapeló nuestra solicitud de permisos y por tanto no nos los
 concedieron.
 
-Como teniamos muchas ganas de visiar esta sierra, en la noche, decidimos
+Como teniamos muchas ganas de visitar esta sierra, en la noche, decidimos
 realizar una sencilla ruta de senderismo que parte del pueblo de Benaocaz
 y llega hasta la formación geológica conocida como el Salto del Cabrero.
 
