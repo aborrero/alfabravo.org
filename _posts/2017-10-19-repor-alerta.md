@@ -24,8 +24,8 @@ el número de accidentes y rescates también ha aumentado.
 
 El reportaje puede visualizarse online en los siguientes sitios:
 
-* Youtube: [https://youtu.be/meSl6x-PxDY]()
-* RTVE a la carta: [http://www.rtve.es/alacarta/videos/repor/repor-166/4257365/]()
+* Youtube: [https://youtu.be/meSl6x-PxDY](https://youtu.be/meSl6x-PxDY)
+* RTVE a la carta: [http://www.rtve.es/alacarta/videos/repor/repor-166/4257365/](http://www.rtve.es/alacarta/videos/repor/repor-166/4257365/)
 
 <center>
 <iframe width="400" height="225"
