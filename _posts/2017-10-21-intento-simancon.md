@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Intento al pico Simancón"
-date:   2017-10-19 15:38:11 +0200
-tags:	[reportaje, montaña]
+date:   2017-10-21 13:36:09 +0200
+tags:	[montaña]
 ---
 
 ![La Sierra del Endrinal][sierra]
