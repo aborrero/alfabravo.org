@@ -7,7 +7,7 @@ tags:	[montaña]
 
 ![La Sierra del Endrinal][sierra]
 
-Ayer viernes 22/Octubre/2017 nos lanzamos al monte un compañero y yo para
+Ayer viernes 20/Octubre/2017 nos lanzamos al monte un compañero y yo para
 visitar la Sierra de Grazalema, en concreto los picos
 [Simancón][wiki_simancon] y [Reloj][wiki_reloj].
 
