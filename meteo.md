@@ -25,6 +25,12 @@ resultan de interés recurrente.
  * tiempo.com: [El Bosque][tiempo.com_bosque], [Grazalema][tiempo.com_grazalema], [Benaocaz][tiempo.com_benaocaz]
  * eltiempo.es: [El Bosque][eltiempo.es_bosque], [Grazalema][eltiempo.es_grazalema], [Benaocaz][eltiempo.es_benaocaz]
 
+<center>
+<iframe width="450" height="350" frameborder="0" scrolling="no"
+        src="http://www.meteoexploration.com/mountain/getweather.php?code=IBP039&lang=es&si=Metric&wgsz=1">
+</iframe>
+</center>
+
 #### Sierra de las Nieves, Málaga
 
  * AEMET: [Ronda][aemet_ronda], [Yunquera][aemet_yunquera], [Tolox][aemet_tolox]
