@@ -23,7 +23,7 @@ Hoy no encontraríamos una meteo invernal, sino más bien primaveral.
 
 Nos pusimos a andar con algo de retraso sobre la hora prevista, pero
 conseguimos llegar a la cima sólo con 30 minutos de diferencia con respecto a
-nuestro horario. Y no está nada mal, porque en el equipo de hoy, de las 12
+nuestro horario. Y no está nada mal, porque en el equipo de hoy, de las 13
 personas que lo formábamos la mitad nunca habían subido a esta montaña, o
 incluso a ninguna otra.
 
