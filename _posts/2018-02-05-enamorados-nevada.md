@@ -13,7 +13,7 @@ invernal en la Sierra de las Nieves. Nuestro objetivo era subir al
 algunas variantes de los senderos clásicos de la zona.
 
 La previsión de meteo era muy clara: aviso de nivel amarillo por nevadas
-con cota de nieve en 600-700 msnm. Se preveia que durante unos la jornada
+con cota de nieve en 600-700 msnm. Se preveia que durante la jornada
 cayeran unos 4 cm de nieve.
 
 <!--more-->
