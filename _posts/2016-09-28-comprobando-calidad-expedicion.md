@@ -85,7 +85,7 @@ sacarse algunos aprendizajes valiosos.
 [pico_torrecilla.jpg]:          {{site.url}}/assets/pico_torrecilla.jpg
 [uiaa]:				http://www.theuiaa.org/
 [wiki_uiaa]:			https://es.wikipedia.org/wiki/Union_Internationale_des_Associations_d%27Alpinisme
-[paper]:			http://www.theuiaa.org/upload_area/Medicine/Advice-and-Recommendations/No7-Trekking/English_UIAA_MedCom_Rec_No_7_Check_Organization_2012_V2-3.pdf
+[paper]:			http://www.theuiaa.org/documents/mountainmedicine/English_UIAA_MedCom_Rec_No_7_Check_Organization_2012_V2-3.pdf
 [logo_uiaa]:			{{site.url}}/assets/logo_uiaa.png
 [wiki_kilimanjaro]:		https://es.wikipedia.org/wiki/Kilimanjaro
 [wiki_annapurna_trail]:		https://en.wikipedia.org/wiki/Annapurna_Circuit
