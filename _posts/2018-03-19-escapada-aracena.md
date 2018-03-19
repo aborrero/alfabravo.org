@@ -22,13 +22,13 @@ sensiblemente y que habría una ventana sin lluvia a medio día.
 
 Así fue que el domingo, nos levantamos tarde y decidimos pegarnos una escapada
 rápida a la Sierra de Aracena. La idea era simplemente volver a ponernos las
-botas de montaña, estirar las piernas y respira de nuevo el aire del monte,
+botas de montaña, estirar las piernas y respirar de nuevo el aire del monte,
 reencontrarnos con la naturaleza tras más de un mes sin salir.
 Para este propósito, elegí una ruta sencilla y cercana para compensar el hecho
 de que íbamos a salir muy tarde, y que empezariamos a andar sobre las 14:00.
 
-Así fue, empezamos a andar a las 14:06 en Aracena, y tras recorrer un monte
-muy húmedo y con vientos frescos, a las 15:30 nos sentábamos a comernos el
+Empezamos a andar a las 14:06 en Aracena, y tras recorrer un monte muy húmedo
+y con vientos frescos, a las 15:30 nos sentábamos a comernos el
 bocadillo en Linares de la Sierra.
 El camino entre estas dos localidades es muy bonito, con 50-50 de tramos
 de pista y de senderos clásicos.
