@@ -9,8 +9,8 @@ tags:	[senderismo, aracena]
 
 No salía al monte desde el [domingo 4 Febrero][ultima], debido a las constantes
 lluvias que han caido en Andalucía durante el último mes. Hemos tenido que
-cancelar muchas aventuras y los pocos momentos que habría la meteo no conseguía
-formar un equipo mínimo para salir.
+cancelar muchas aventuras y los pocos momentos en los que abría la meteo no
+conseguía formar un equipo mínimo para salir.
 
 Este finde también se planteaba lluvioso, pero el sábado de madrugada detecté
 que las predicciones para el domingo en la Sierra de Aracena habían mejorado
