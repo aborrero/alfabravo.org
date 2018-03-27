@@ -20,24 +20,22 @@ por parte de AEMET.
 
 <!--more-->
 
-![El equipo de aventuras][equipo]
-
 Conseguimos reunirnos en un equipo de 4 personas, me incluyo, en el que 2 de
 los componentes no tenian demasiada experiencia en montaña (mis hermanos). Este
 hecho, que a priori es irrelevante, creo que condicionaría un poco las
 sensaciones que tendríamos en el desarrollo de la aventura.
+
+![El equipo de aventuras][equipo]
 
 Salimos de casa en torno a las 7:00, y cuando empezamos a andar cerca del
 cortijo del Robledal Alto, a las 11:00, el frio que sentimos era intenso: unos
 5º. Además, el viento, como estaba previsto, ya se mostraba vigoroso en las
 zonas bajas de la montaña.
 
-El ritmo de subida en el primer tramo es muy bueno. Estamos motivados y
-disfrutando del la actividad y del entorno. Pero los que ya hemos subido a esta
+El ritmo de subida en el primer tramo es muy bueno. Estamos motivados,
+disfrutando de la actividad y del entorno. Pero los que ya hemos subido a esta
 montaña antes sabemos lo exigente que puede ser, y sobretodo, lo largos que se
 hacen mentalmente los aproximadamete 17km y 1000 metros de desnivel.
-
-![Los guantes!][guantes]
 
 Cuando llegamos la zona del paso del Salto del Caballo encontramos una capita
 fina de hielo en el suelo que nos obliga a ponernos crampones. Pero la capa de
@@ -46,6 +44,8 @@ se hace bastante incómodo. Toda esta zona está cubierta de hielo en unas
 formaciones espectaculares. Y el frio, junto con el viento, van en aumento a
 medida que ganamos altura.
 
+![Los guantes!][guantes]
+
 En la zona de Collado Lobera hay un cartel indicativo donde se anuncia que la
 cima de La Maroma queda a unos 2km. En este punto, el hielo del suelo nos da
 una pequeña tregua, lo que aprovechamos para quitarnos los crampones y poder
@@ -53,29 +53,33 @@ movernos con más soltura. Nos cruzamos con un pequeño grupo de montañeros que
 han hecho cima y están bajando ya. Comentamos con ellos el estado de la meteo
 y el viento, y nos avisan de que en la cima las condiciones son aún peores.
 
-
-![Cascada de hielo][cascada]
-
 Y es cierto, en esta parte alta las condiciones se han endurecido bastante. Me
 siento un poco sobrecogido por la sensación térmica y por el esfuerzo, físico y
 mental, que hemos hecho hasta ahora. Y es que aún no hemos llegado a la cima y
 luego nos toca bajar. El frio nos obliga a estar en movimiento constante.
-Al llegar a la zona de tajos que hay previa a la cima, vemos con desagrado cómo
+Al llegar a la zona de tajos que hay previa a la cima, vemos con desánimo cómo
 el suelo vuelve a estar lleno de hielo y tenemos que volver a ponernos los
 crampones, lo que nos obliga a pararnos, a quitarnos los guantes, y en
-definitva, a pasar aún más frio.
+definitva, a pasar aún más frio. Ya no es tan divertido eso de los crampones.
+
+![Cascada de hielo][cascada]
 
 Son momentos duros, esta parte alta de la montaña la estamos sufriendo
-bastante, la moral está un poco baja y yo estoy además, preocupado por mis
+bastante, la moral está un poco baja y yo estoy, además, preocupado por mis
 hermanos, que es su primera vez en este tipo de situaciones delicadas.
 El último tramo a la cima se nos hace realmente eterno, con visibilidad muy
-reducida y un frio de primer nivel. He calculado que la sensación términa era
-de -15º, ya que el termómetro (colgado del pecho en mochila) marcaba en torno
-a 0º y hay que quitarle al menos 4º o 5º grados por el calor que genera mi
-cuerpo, y el viento soplaría en torno a 70km/h.
-Por fin llegamos a la cima. Efectivamente, en las fotos rápidas que nos hacemos
-queda registrado que se nos congela la ropa en la parte por donde nos da el
-viento.
+reducida y un frio de primer nivel.
+
+He calculado que la sensación términa era
+de -15º, ya que el termómetro (colgado del pecho en la mochila) marcaba en
+torno a 0º y hay que quitarle al menos 4º o 5º grados por el calor que genera
+mi cuerpo. El viento soplaría en torno a 70km/h.
+
+Con tesón, aprentando los dientes y haciendo el sacrificio final ¡por fin
+llegamos a la cima!. Qué esfuerzo más sufrido. Y efectivamente, en
+las fotos rápidas que nos hacemos queda registrado que se nos congela la ropa
+en el lado por donde nos golpea el viento. Estos últimos 2km han sido bastante
+exigentes.
 
 ![En la cima de La Maroma][cima]
 
@@ -105,13 +109,6 @@ y el sobrecogimiento de la zona alta desaparecen, nos relajamos y empezamos
 a bromear. Realmente, solo han sido un par de horas donde la cosa se ha puesto
 más peliaguda.
 
-<center>
-<iframe width="400" height="225"
-	src="https://www.youtube-nocookie.com/embed/Gvv8H4P6IIU"
-	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-</center>
-
 Sin más, a las 18:15 llegamos al coche y nos vamos directos a donde habíamos
 planeado pasar la noche, en el Hotel Rural los Caños de la Alcaicería.
 La gran chimenea que nos recibe allí, las habitaciones con suelo radiante,
@@ -120,6 +117,14 @@ estupendamente después del frio que hemos pasado en el monte.
 Este sitio está genial, nos atienden muy bien, está todo muy limpio, tranquilo
 y a precios muy económicos. ¿Qué más se puede pedir? Este hotel es totalmente
 recomendable, ha sido una gran elección, y volveremos.
+
+<center>
+<iframe width="400" height="225"
+	src="https://www.youtube-nocookie.com/embed/Gvv8H4P6IIU"
+	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
+</center>
+
 
 Las fuerzas han estado hoy justas, y hemos ejercitado bastante nuestra
 capacidad de sufrimiento. En los momentos duros de meteo y cansancio, es muy
@@ -130,14 +135,14 @@ conocimientos adecuados. Creo que hemos cumplido todos los requisitos, y hemos
 tenido también la suerte de nuestro lado, pues nadie se torció un tobillo o
 algo similar a -15º.
 
-![Chimenea][chimenea]
-
 La Maroma era uno de nuestros objetivos de esta temporada, ya que cuando
 la subimos en 2015 sufrimos aún más, probablemente debido a una mala
 planificación. Esta vez hemos vuelto contentos y orgullosos de haberlo hecho
 mejor, habernos superado y haber respondido bien en las situaciones más sufridas
 que hemos tenido. Los 4 miembros del equipo hemos estado genial a pesar del
-reto imponente :-)
+reto de esta montaña imponente :-)
+
+![Chimenea][chimenea]
 
 Referencias:
 
