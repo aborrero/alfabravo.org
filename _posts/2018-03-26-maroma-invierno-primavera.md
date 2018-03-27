@@ -88,8 +88,9 @@ entre bajar y reponer fuerzas, que solucionamos metiendonos detrás de la
 primera roca grande que hay en el camino de bajada de la cima.
 
 <center>
-<iframe width="560" height="315"
-	src="https://www.youtube-nocookie.com/embed/YbyawISEsC0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe width="400" height="225"
+	src="https://www.youtube-nocookie.com/embed/YbyawISEsC0"
+	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </center>
 
@@ -105,8 +106,9 @@ a bromear. Realmente, solo han sido un par de horas donde la cosa se ha puesto
 más peliaguda.
 
 <center>
-<iframe width="560" height="315"
-	src="https://www.youtube-nocookie.com/embed/Gvv8H4P6IIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+<iframe width="400" height="225"
+	src="https://www.youtube-nocookie.com/embed/Gvv8H4P6IIU"
+	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </center>
 
