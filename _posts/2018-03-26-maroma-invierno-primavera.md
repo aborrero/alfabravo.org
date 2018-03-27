@@ -113,7 +113,7 @@ más peliaguda.
 Sin más, a las 18:15 llegamos al coche y nos vamos directos a donde habíamos
 planeado pasar la noche, en el Hotel Rural los Caños de la Alcaicería.
 La gran chimenea que nos recibe allí, las habitaciones con suelo radiante,
-la ducha de agua hirviedo a alta presión y la cama cómoda nos sientan como
+la ducha de agua hirviendo a alta presión y la cama cómoda nos sientan
 estupendamente después del frio que hemos pasado en el monte.
 Este sitio está genial, nos atienden muy bien, está todo muy limpio, tranquilo
 y a precios muy económicos. ¿Qué más se puede pedir? Este hotel es totalmente
