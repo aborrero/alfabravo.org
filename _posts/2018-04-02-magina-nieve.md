@@ -49,10 +49,9 @@ extensión como en cantidad de nieve. Y efectivamente, la profundida es
 bastante. La nieve está muy húmeda, no tiene consistencia ninguna, y según
 donde se pise, la pierna se hunde hasta la rodilla. Las huellas que ya había
 nos ayudaban algo, pero en general el avance era un poco penoso. Además,
-nos damos cuenta de que esto no es ya un nevero, esque el sendero está
-completamente cubierno de nieve, y que ésta será la tónica durante el resto
-de la ascensión.
-
+nos damos cuenta de que eso no era ya un nevero, y es que el sendero y todo el
+monte estaba completamente cubierno de nieve, y que ésta será la tónica durante
+el resto de la jornada.
 
 ![Nevero][nevero]
 
@@ -66,25 +65,25 @@ tras una piedra.
 Los compañeros del refugio, cuando vuelven, nos comentan que se han encontrado
 allí con otros montañeros que han intentado la cima y que han desistido debido
 a la cantidad de nieve. En esta ocasión el aviso nos cala más profundo, porque
-ya hemos vivido por nosotros mismos lo complicado que resulta moverse con la
+ya hemos visto hoy por nosotros mismos lo complicado que resulta moverse con la
 nieve en este estado. Entablamos las primeras conversaciones sobre los
 objetivos del día y sobre la posibilidad de darnos la vuelta, como lo han hecho
 los demás grupos de montañeros. La verdad es que aún tenemos algo de ganas de
 montaña, y además nos ha parecido ver a alguien próximo a la cima del Mágina,
 así que decidimos hacer un intento. Vamos a avanzar un poco más. Evaluaremos
 un poco más adelante si continuar o no. Estábamos justo debajo de una
-señalización que indica 2km hasta la cima del Mágina, y somos plenamente
+señalización que indica 2km hasta la cima del Mágina, pero somos plenamente
 conscientes que 2km pueden hacerse muy largos con la montaña en esas
 condiciones.
 
 ![Cruce][cruce]
 
 Avanzamos por una primera parte preciosa, aristas llenas de nieve con vistas
-espectacurales de la sierr, que nos hacen sentir que estamos en otro país. ¡No,
+espectacurales de la sierra, que nos hacen sentir que estamos en otro país. ¡No,
 es Andalucía! :-) Desde la lejanía también observamos el resto del camino que
 nos falta, e intentando pensar con la cabeza fria, detectamos un par de sitios
 que podrían presentar cierto riesgo de aludes. No tenemos muchos conocimientos
-sobre nivología, pero una gran acumulación de nieve y una rampa inclinada suena
+sobre nivología, pero una gran acumulación de nieve y una rampa inclinada suenan
 como algo a tener en cuenta. Además, por cada paso que damos, la cantidad de
 nieve es mayor. En ciertas zonas, nos hundimos hasta la cintura.
 Un compañero mete la pierna tan profunda que tiene que auto desenterrarse el
@@ -103,7 +102,7 @@ cimas, llegar hasta el pico Mágina.
 
 ![Rutas][rutas]
 
-Decidido el intinerario, nos ponemos a subir. Resulta que esta cresta rocosa no
+Decidido el intinerario, apostamos por subir. Resulta que esta cresta rocosa no
 es más que una acumulación de peñascos, nieve y matorrales, que hacen nuestro
 avance quizás aún más penoso de lo que hubiera sido por la nieve. Así que a
 mitad de la cresta, nos paramos y volvemos a evaluar la situación. Aún podemos
@@ -146,7 +145,7 @@ Aunque en cierto momento, llegamos a la conclusión de que, efectivamente, un
 componente de nuestra expedición se había lesionado la rodilla y tenía
 problemas para descender a través de la nieve.
 En este momento, nuestro equipo de 3, más bajo, decidimos dividirnos.
-2 bajaramos a los coches para volver a subirlo por la pista forestal que
+2 bajaríamos a los coches para subirlo por la pista forestal que
 hay hasta el inicio del sendero, unos 3 o 4 km, caminata que le ahorraríamos
 a la compañera con problemas. El otro miembro se quedaría arriba para unirse
 a los 3 que bajan, de manera que pueda ayudar (física o moralmente) con el
@@ -169,7 +168,7 @@ Aquí, por cierto, el personal era bastante amable, pero las comodidades
 eran muy escuetas. Para la compañera lesionada, hacemos uso de la políza de
 seguro asociada a la licencia federativa de montaña, y le hacen una
 radiografía en un hospital privado de Jaen. No tiene ninguna lesión ósea, y
-en principio todo ha quedado en un susto: una fuerte consutión en la rodilla.
+en principio todo ha quedado en un susto: una fuerte contusión en la rodilla.
 
 <center>
 <iframe width="400" height="225"
@@ -186,7 +185,7 @@ pudo pasar factura a la compañera accidentada. Supongo que es por algo que la
 mayoría de accidentes en la montaña ocurren en los descensos, cuando el
 cansancio se añade a la ecuación.
 
-Supongo que volveremos al pico Mágina, pero me gustaría vivir otra experiencia
+Creo que volveremos al pico Mágina, pero me gustaría vivir otra experiencia
 más satisfactoria esta vez :-)
 
 Referencias:
