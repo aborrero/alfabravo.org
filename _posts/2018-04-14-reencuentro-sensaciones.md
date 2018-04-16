@@ -34,14 +34,15 @@ buenas sensaciones y la cara más agradable del monte.
 
 <center>
 <iframe width="400" height="225"
-	src="https://www.youtube.com/embed/n5CKa8TpK8Y"
+	src="https://www.youtube.com/embed/HM-_gR6caZQ"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
 </center>
 
-Referencias:
+Referencias y enlaces:
 
 * [Wikiloc de andarin64 - Benaocaz-Salto del Cabrero y vuelta][wikiloc]
+* [Youtube: videos del día][youtube]
 
 [magina]:		{{site.url}}/2018/04/02/magina-nieve.html
 [maroma]:		{{site.url}}/2018/03/26/maroma-invierno-primavera.html
@@ -49,3 +50,4 @@ Referencias:
 [wikiloc]:		https://es.wikiloc.com/wikiloc/view.do?id=8735355
 [noche]:		{{site.url}}/2017/10/08/salto-cabrero-nocturno.html
 [foto]:			{{site.url}}/assets/20180414-salto-del-cabrero.png
+[youtube]:		https://www.youtube.com/playlist?list=PLl_fK7dUYicMtoaFBCiCNx2emvAFAR7Gn
