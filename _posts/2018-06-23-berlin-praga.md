@@ -11,7 +11,7 @@ Recientemente he visitado Berlin y Praga, en un mismo viaje, por cuestiones de
 trabajo. No conocía estas dos importantes ciudades europeas, ni tampoco
 los paises de las que son capitales, Alemania y República Checa.
 
-Primero viajé a Berlin, a donde llegué en un vuelo SVQ->MAD->TLX. El aeropuerto
+Primero viajé a Berlin, a donde llegué en un vuelo SVQ->MAD->TXL. El aeropuerto
 de Tegel es sorprendentemente pequeño. Me costó varios intentos encontrar un
 taxi que aceptara tarjetas de crédito, y el que encontré, cobraba un suplemento
 por usarla. Luego descubriría que Berlín es muy afín al dinéro en metálico y
