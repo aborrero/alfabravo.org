@@ -24,13 +24,13 @@ Mientras estamos preparándonos para empezar, una de las compañeras del equipo,
 mi pareja, se encuentra indispuesta. No está en condiciones de subir a ningún
 sitio. Se producen unos momentos de descoordinación, pues nadie tiene claro
 si empezar a andar o no. Lo que si está claro es que nosotros no podemos subir.
-Finalmente entre las 11:30 y las 12:00 el grueso del equipo empiezan a andar
+Finalmente entre las 11:30 y las 12:00 el grueso del equipo empieza a andar
 en dirección a la cima, con algo de retraso con respecto a los horarios
 previstos.
 
 Nosotros 2 nos quedamos abajo, pero a las 12:30 hacemos un pequeño intento de
 subida que acaba a 2.700 msnm. La compañera indispuesta no tiene fuerzas. Los
-niños domingueros con los trineos nos pasan corriendo por alrededor. Hemos
+niños domingueros con los trineos nos pasan correteando por alrededor. Hemos
 llegado hasta el nevero de Cauchiles, y nos bajamos ya.
 Un poco más tarde otra compañera del equipo de subida también se da
 la vuelta en la cota de 3.000 msnm y se une a nosotros abajo.
@@ -50,7 +50,7 @@ el Veleta se presenta sobrecogedor, imponente y majestuoso. Escuchar el
 walkie-talkie es bastante entretenido, pero lo que de verdad nos gustaría es
 estar allí arriba también.
 
-Por la tarde entra una niebla densa y nubes oscuras sobre Sierra Nevada, se
+Por la tarde entra una niebla densa y nubes oscuras sobre Sierra Nevada. Se
 nota la brusca bajada de temperaturas. Los compañeros del Veleta vuelven sanos
 y salvos al albergue. Perdemos comunicación walkie-talkie con el equipo del
 Mulhacen, que se adentran en una zona más profunda de las montañas. A final del
@@ -71,8 +71,10 @@ este video:
 </iframe>
 </center>
 
-Por mi parte, añado el Veleta a mi cuenta de montañas pendientes, donde ya
-tengo varias esperando...
+Uno de los objetivos era conocer el Albergue Universitario de Sierra Nevada,
+y este objetivo está cumplido. No me arrepiento de haberme quedado en el "campo
+base", aunque por mi parte, añado el Veleta a mi cuenta de montañas pendientes,
+donde ya tengo varias esperando...
 
 [wikiveleta]:		https://es.wikipedia.org/wiki/Pico_Veleta
 [veleta]:		{{site.url}}/assets/20180703-01-veleta.png
