@@ -41,4 +41,4 @@ La aventura promete!
 
 [tiendas]:		{{site.url}}/assets/vivac_grazalema_camp1.jpg
 [vivac]:		{{site.url}}/2016/09/13/normativa-vivac.html
-[mapa]:			{{śite.url}}/assets/20170427-mapa-vivac-yunquera.png
+[mapa]:			{{site.url}}/assets/20170427-mapa-vivac-yunquera.png
