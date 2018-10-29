@@ -85,6 +85,10 @@ exigente. Volvimos a casa cansados pero satisfecho. El esfuerzo ha sido intenso
 en algunos tramos, pero creo que el equipo hoy a funcionado muy bien, y todos
 hemos podido disfrutar bastante.
 
+Referencia:
+
+[Grupo de Montaña - Patapumparriba - Grazalema - Simancón (1.569 mts) - Reloj (1.535 mts) (Sierra de Grazalema, Cádiz)][ref]
+
 
 [intento]:		{{site.url}}/2017/10/21/intento-simancon.html
 [anterior]:		{{site.url}}/2018/01/08/primera-nevada.html
@@ -92,3 +96,4 @@ hemos podido disfrutar bastante.
 [subida]:		{{site.url}}/assets/20181029-02-simancon-subida.png
 [bajada]:		{{site.url}}/assets/20181029-03-simancon-bajada.png
 [equipo]:		{{site.url}}/assets/20181029-04-simancon-equipo.png
+[ref]:		http://gmpatapumparriba.blogspot.com.es/2015/03/grazalema-simancon-1569-mts-reloj-1535.html
