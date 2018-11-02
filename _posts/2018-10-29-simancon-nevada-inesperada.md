@@ -22,10 +22,10 @@ equipo integrado hoy por 8 personas. Salimos de casa a las 8:00 con idea de
 empezar a andar a las 10:00.
 
 El intenso frio se hace notar al bajarnos del coche en Grazalema, unos 4ºC de
-temperatura ambiente, y uno sensación términa debido al viento aún más baja.
+temperatura ambiente, y una sensación términa debido al viento aún más baja.
 Todos vamos bastante preparados para el frio, hemos hecho un buen trabajo
 previo de preparación, estudio de la meteo y concienciación. En muchas
-ocasiones es complicado meter el chaquetón en la mochila cuando en casa hace
+ocasiones es complicado meter el chaquetón en la mochila cuando en cas
 no hace frio...
 
 ![Subiendo][subida]
@@ -55,8 +55,8 @@ el paso.
 
 El equipo llega a la cima del Reloj y empezamos la bajada hacia la Charca
 Verde. Durante esta bajada, aparecen unos copitos de nieve flotando a nuestro
-alrededor. Para algunos de nosotros es la primera nevada que viven.
-Para mi, significa que estamos por encima de la cota de nieve, y que si bajamos
+alrededor. Hay para quien esta es su primera nevada en primera persona.
+Tambi�n significa que estamos por encima de la cota de nieve, y que si bajamos
 de ella, la nieve que cae se convertirá en agua, mucho más molesta.
 
 ![Bajando][bajada]
