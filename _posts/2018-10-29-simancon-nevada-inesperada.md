@@ -85,6 +85,16 @@ exigente. Volvimos a casa cansados pero satisfecho. El esfuerzo ha sido intenso
 en algunos tramos, pero creo que el equipo hoy a funcionado muy bien, y todos
 hemos podido disfrutar bastante.
 
+Video resumen de la experiencia:
+
+<center>
+<iframe width="400" height="225"
+        src="https://www.youtube-nocookie.com/embed/-FEgC2hYdiE"
+        frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
+</center>
+
+
 Referencia:
 
 [Grupo de Montaña - Patapumparriba - Grazalema - Simancón (1.569 mts) - Reloj (1.535 mts) (Sierra de Grazalema, Cádiz)][ref]
