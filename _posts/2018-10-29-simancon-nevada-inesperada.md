@@ -56,7 +56,7 @@ el paso.
 El equipo llega a la cima del Reloj y empezamos la bajada hacia la Charca
 Verde. Durante esta bajada, aparecen unos copitos de nieve flotando a nuestro
 alrededor. Hay para quien esta es su primera nevada en primera persona.
-Tambi�n significa que estamos por encima de la cota de nieve, y que si bajamos
+También significa que estamos por encima de la cota de nieve, y que si bajamos
 de ella, la nieve que cae se convertirá en agua, mucho más molesta.
 
 ![Bajando][bajada]
