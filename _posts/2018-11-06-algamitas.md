@@ -43,6 +43,13 @@ en torno a 3 horas, parada para almorzar incluida. Esto fue un día diferente,
 con una montaña pequeña en cuanto a altura pero con el aliciente de subir por
 una ruta distinta a la normal. Y lo pasamos estupendo.
 
+![Logo iniciativa Canal PMR 7.7][canal77pmr]
+
+Estando en la parte alta hicimos pruebas de comunicación en el canal de radio
+[PMR 7.7 de seguridad en montaña][pmr77], y tuvimos contacto con Iznájar, a
+más de 80km de distancia. Siempre me alegro de encontrar gente a la escucha
+en el canal.
+
 Video resumen de la experiencia:
 
 <center>
@@ -58,6 +65,7 @@ Referencia:
 [Wikiloc de acal - Peñón de Algamitas por las cadenas][ref]
 
 [ref]:		https://es.wikiloc.com/rutas-senderismo/penon-de-algamitas-por-las-cadenas-15913149
+[pmr77]:	http://www.canal77pmr.com/
 [equipo]:	{{site.url}}/assets/20181106-01-algamitas-equipo.png
 [paso]:		{{site.url}}/assets/20181106-02-algamitas-paso.png
-
+[canal77pmr]:	{{site.url}}/assets/canal77pmr.jpg
