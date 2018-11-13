@@ -12,9 +12,9 @@ aparato de la marca Baofeng, un mundo de posibilidades se abre ante nosotros.
 El walkie-talkie suele venir configurado, o no, depende de donde lo compremos
 y dependiendo del modelo en cuestión.
 
-En mi caso, compré un Baofeng UV5R en Amazon que no venia pre-configurado,
-y compŕe otro en la web baofeng.es que sí venia pre-configurado (con un coste
-adicional de 5€).
+En mi caso, compré un Baofeng UV5R en una tienda online que no venia
+pre-configurado, y compŕe otro en la web baofeng.es que sí venia
+pre-configurado (con un coste adicional de 5€).
 
 <!--more-->
 
@@ -29,7 +29,7 @@ realizar una configuración adicional.
 
 Para realizar la programación necesitamos un cable específico, que por un lado
 conecta con el walkie-talkie y por el otro tiene USB para el ordenador.
-Este cable es barato y se vende en Amazon y otras tiendas online.
+Este cable es barato y se vende en multitud de tiendas online.
 
 ![Cable][cable]
 
