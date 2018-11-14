@@ -129,6 +129,15 @@ sale el sol:
 </iframe>
 </center>
 
+Y otro video, resumen de la experiencia:
+
+<center>
+<iframe width="400" height="225"
+        src="https://www.youtube-nocookie.com/embed/xZifAjMjh9A"
+        frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
+</center>
+
 Referencia:
 
 [Grupo de montaña - patapumparriba; Quejigales - Torrecilla (1.918 mts) (Sierra de las Nieves, Málaga)][ref]
