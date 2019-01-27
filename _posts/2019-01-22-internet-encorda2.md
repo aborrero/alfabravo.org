@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Navegando internet: encorda2.com"
-date:   2018-12-13 21:30:00 +0200
+date:   2019-01-22 21:30:00 +0200
 tags:	[viaje]
 ---
 
