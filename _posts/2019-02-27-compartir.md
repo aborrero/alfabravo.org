@@ -9,7 +9,7 @@ tags:	[aventuras]
 
 Cualquier aventura pasa por varias etapas, principlamente tres: preparación,
 desarrollo y fase posterior. Este esquema puede aplicarse casi siempre, a no
-ser que la aventura haya sido accidental o casual, o posea otras
+ser que la aventura haya sido accidental, casual, o posea otras
 características.
 
 Como sigo sin poder realizar demasiadas actividades debido a mi lesión, aunque ya
@@ -68,7 +68,7 @@ la manera en la que comparten la información, llegando a obligarte a visitar
 el sitio (trucos sucios lectores de feeds/rss) e impedirte la navegación si
 usas bloqueadores de publicidad, caso de [revistaoxigeno.es][ox].
 
-Sinceramente, estoy convencido en cuál es la manera más adecuada de compartir
+Sinceramente, estoy convencido de cuál es la manera más adecuada de compartir
 una aventura. Compartir de verdad.
 
 
