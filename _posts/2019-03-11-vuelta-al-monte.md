@@ -31,7 +31,7 @@ es un viejo conocido desde que lo
 con una pendiente más acentuada eran el reto del día. Pude completarla sin
 ningún problema.
 
-![Lagarin][lagarin]
+![Lagarin][lagarin_top]
 
 Finalmente, el Domingo 10 Marzo 2019 me dirigí a la ruta de El Pinsapar de
 Grazalema, un clásico de las rutas de senderismo de la Sierra de Cádiz.
@@ -49,4 +49,4 @@ supongo que es lo que cuenta.
 [lagarin]:	{{site.url}}/2017/03/20/ataque-lagarin.html
 [pinsapar]:	{{site.url}}/2017/04/10/indomito-pinsapar.html
 [botas]:	{{site.url}}/assets/20190311-botas.png
-[lagarin]:	{{site.url}}/assets/20190311-lagarin.png
+[lagarin_top]:	{{site.url}}/assets/20190311-lagarin.png
