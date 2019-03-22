@@ -7,7 +7,7 @@ description: >
   Este es el blog 'alfabravo', con tematica relacionada con aventuras,
   viajes y experiencias.
 baseurl:		""
-#url:			"http://alfabravo.org"
+url:			"https://alfabravo.org"
 twitter_username:	arturoborrero
 github_username:	aborrero
 
