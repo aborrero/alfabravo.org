@@ -6,6 +6,7 @@ permalink: /about/
 
 Este es el blog *alfabravo.org*, con tematica relacionada con aventuras, viajes y experiencias.
 Se trata de un proyecto personal y sin ánimo de lucro. Un cuaderno de bitácora.
+Puedes suscribirte <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.
 
 Puedes encontrar contenido sobre diversas actividades en la naturaleza:
 
@@ -26,6 +27,7 @@ Así mismo, se publican articulos sobre:
 * materiales
 * reflexiones
 * reseñas de otras webs o libros
+
 
 Todo el contenido del sitio tiene doble licencia:
 
