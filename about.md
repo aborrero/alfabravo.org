@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 Este es el blog *alfabravo.org*, con tematica relacionada con aventuras, viajes y experiencias.
+Se trata de un proyecto personal y sin ánimo de lucro. Un cuaderno de bitácora.
 
-Puedes encontrar contenido sobre diversos deportes en la naturaleza:
+Puedes encontrar contenido sobre diversas actividades en la naturaleza:
 
 * senderismo
 * montañismo
@@ -19,10 +20,12 @@ Puedes encontrar contenido sobre diversos deportes en la naturaleza:
 
 Así mismo, se publican articulos sobre:
 
+* viajes
 * equipamiento
 * expediciones
 * materiales
-* viajes
+* reflexiones
+* reseñas de otras webs o libros
 
 Todo el contenido del sitio tiene doble licencia:
 
