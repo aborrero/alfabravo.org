@@ -27,7 +27,7 @@ resultan de interés recurrente.
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
-        src="https://www.meteoexploration.com/mountain/getweather.php?code=IBP039&lang=es&si=Metric&wgsz=1">
+        src="https://meteoexploration.com/mountain/getweather.php?code=IBP039&lang=es&si=Metric&wgsz=1">
 </iframe>
 </center>
 
@@ -40,7 +40,7 @@ resultan de interés recurrente.
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
-        src="https://www.meteoexploration.com/mountain/getweather.php?code=IBP040&lang=es&si=Metric&wgsz=1">
+        src="https://meteoexploration.com/mountain/getweather.php?code=IBP040&lang=es&si=Metric&wgsz=1">
 </iframe>
 </center>
 
@@ -53,7 +53,7 @@ resultan de interés recurrente.
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
-        src="https://www.meteoexploration.com/mountain/getweather.php?code=IBP053&lang=es&si=Metric&wgsz=1">
+        src="https://meteoexploration.com/mountain/getweather.php?code=IBP053&lang=es&si=Metric&wgsz=1">
 </iframe>
 </center>
 
@@ -66,7 +66,7 @@ resultan de interés recurrente.
 
 <center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
-	src="https://www.meteoexploration.com/mountain/getweather.php?code=IBP046&lang=es&si=Metric&wgsz=1">
+	src="https://meteoexploration.com/mountain/getweather.php?code=IBP046&lang=es&si=Metric&wgsz=1">
 </iframe>
 </center>
 
@@ -132,6 +132,6 @@ resultan de interés recurrente.
 [et.es_capileira]:		https://www.eltiempo.es/capileira.html?q=capileira&c=prediction
 [et.es_jerez]:			https://www.eltiempo.es/jerez-del-marquesado.html?q=jerez-del-marquesado&c=prediction
 [mf_mulhacen]:			https://www.mountain-forecast.com/peaks/Mulhacen/forecasts/3482
-[me_mulhacen]:			https://www.meteoexploration.com/forecasts/Mulhacen/?lang=es
+[me_mulhacen]:			https://meteoexploration.com/forecasts/Mulhacen/?lang=es
 [aemet.es_windchill]:           https://www.aemet.es/es/conocermas/montana/detalles/sensaciontermica
 [windchill]:			{{site.url}}/assets/aemet_windchill.png
