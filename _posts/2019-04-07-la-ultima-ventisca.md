@@ -34,6 +34,8 @@ mañana y hemos empezado a andar con 30 minutos de retraso con respecto a
 nuestra planificación, que incluye hacer cima a las 14:00 y estar de vuelta
 en el coche a las 18:00.
 
+![Selfie][selfie]
+
 Hoy estamos muy motivados, y subimos por la Cañada del Cuerno a muy buen ritmo,
 disfrutando de los paisajes espectaculares que nos ofrece el monte. La nevada
 nos da un respiro mientras ascendemos este primer tramo de la ruta clásica
@@ -54,8 +56,6 @@ que entre todos vayamos abriendo la huella en la nieve. Nos proponemos
 continuar hasta el pozo de las nieves de Puerto Oso y allí evaluar de nuevo
 la situación.
 
-![Selfie][selfie]
-
 Continuamos marchando. Según el tramo, encontramos unos pocos centímetros de
 nieve o bien nieve hasta cubrir por completo el tobillo, a la altura de los
 gemelos. Alcanzamos el pozo de las nieves sin mayor novedad. Comprobamos
@@ -68,6 +68,8 @@ las cosas, y entre los 5 hablamos de la posibilidad de volver atrás en este
 punto. Pero no encontramos ningún motivo de peso que nos haga acortar tánto
 la ruta. A pesar de que sentimos que ya hemos cumplido los objetivos del día,
 decidimos que nuestro objetivo superior es la cima del pico Torrecilla.
+
+![Grupo][grupo]
 
 Iniciamos de nuevo la marcha, y nos cruzamos con un nutrido grupo de montañeros
 que también se dirigen al pico. A los pocos minutos, parece mentira, empieza
@@ -151,3 +153,4 @@ espectacular.
 [bajando]:		{{site.url}}/assets/20190407-bajando.png
 [travesia]:		{{site.url}}/assets/20190407-travesia.png
 [selfie]:		{{site.url}}/assets/20190407-selfie-ismael.png
+[grupo]:		{{site.url}}/assets/20190407-grupo.png
