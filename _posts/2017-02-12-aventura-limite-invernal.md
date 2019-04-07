@@ -126,7 +126,7 @@ jornada. Uno de los compañeros del equipo sufrió unos calambres en
 los cuadriceps que le impedian andar. Se sentó en el suelo nevado.
 Con el viento arreciando y a varias horas de marcha de la civilización sentí
 que si nuestro compañero no volvía a andar, podríamos tener serias
-complicaciones.
+complicaciones debido al riesgo de hipotermia.
 
 Pensé en las dudas anteriores, ¿Deberíamos habernos dado la vuelta antes?
 
