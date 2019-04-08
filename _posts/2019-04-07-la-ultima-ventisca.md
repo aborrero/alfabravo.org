@@ -144,6 +144,17 @@ marrón que supone lesionarse, tener cualquier inmovilización o incluso perders
 en el monte mientras reina semejante meteorología. Calculo que en la cima
 habria unos -10ºC de sensación térmica.
 
+Un video resumen de la experiencia:
+
+<center>
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/k117-T3q-y0"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</center>
+
 Hemos formado un equipazo hoy. La última ventisca de la temporada ha sido
 espectacular.
 
