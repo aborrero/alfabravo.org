@@ -95,7 +95,7 @@ para descansar y comer algo rápido.
 
 Un compañero del equipo se dá un fuerte cabezazo por accidente contra el techo
 de la semi cueva, lo que nos pone en alerta sobre lo delicado de nuestra
-situación en caso de una emergencia. Además, este ataque tan ráido a la cima en
+situación en caso de una emergencia. Además, este ataque tan rápido a la cima en
 unas condiciones tan duras me pasa factura en lo físico, y personalmente me
 encuentro extenuado, con las piernas muy cargadas. Como suele ocurrirme, siento
 cómo mi estado mental y anímico pierden fuelle rápidamente, así que mientras
