@@ -127,9 +127,11 @@ detrás de ellos.
 
 ¡La victoria era nuestra!
 
+Continua en [segunda parte][pt2].
+
 **_Este artículo está escrito por Salvador Castillo Posada._**
 
 [llegada]:		{{site.url}}/assets/20190421-llegada.png
 [cebadilla]:		{{site.url}}/assets/20190421-palo-cebadilla.png
 [refugio]:		{{site.url}}/assets/20190421-refugio.png
-
+[pt2]:			{{site.url}}/2019/04/27/la-sierra-inexpugnable2.html
