@@ -181,9 +181,12 @@ con la ruta..
 Aún no había noticias del resto de gente a la que les han pillado la creciente
 tormenta de nieve...
 
+Continúa en [tercera parte][3parte].
+
 **_Este artículo está escrito por Salvador Castillo Posada._**
 
 [pt1]:			{{site.url}}/2019/04/21/la-sierra-inexpugnable1.html
 [cima]:			{{site.url}}/assets/20190427-cima.png
 [luna]:			{{site.url}}/assets/20190427-luna.png
 [refugio]:		{{site.url}}/assets/20190427-refugio-caldera.png
+[3parte]:		{{site.url}}/2019/05/16/la-sierra-inexpugnable3.html
