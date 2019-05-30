@@ -189,4 +189,4 @@ Continúa en [tercera parte][3parte].
 [cima]:			{{site.url}}/assets/20190427-cima.png
 [luna]:			{{site.url}}/assets/20190427-luna.png
 [refugio]:		{{site.url}}/assets/20190427-refugio-caldera.png
-[3parte]:		{{site.url}}/2019/05/16/la-sierra-inexpugnable3.html
+[3parte]:		{{site.url}}/2019/05/29/la-sierra-inexpugnable3.html
