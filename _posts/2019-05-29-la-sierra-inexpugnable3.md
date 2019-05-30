@@ -126,6 +126,8 @@ Unos días enriquecedores en todos los aspectos para sumar a mi experiencia
 personal y, que ahora espero puedan valeros en este relato a vosotros que
 habéis conocido mi pequeña aventura en la salvaje Sierra Nevada.
 
+**_Este artículo está escrito por Salvador Castillo Posada._**
+
 [noche]:	{{site.url}}/assets/20190530-01-refugio_noche_nevando.png
 [ventana]:	{{site.url}}/assets/20190530-02-ventana_nevando.png
 [rio]:		{{site.url}}/assets/20190530-03-cruzando_rio.png
