@@ -8,7 +8,7 @@ tags:	[snorkel]
 ![Playa][playa]
 
 En mi búsqueda constante de sitios nuevos para hacer snorkel, especialmente en
-la costa de Cádiz, he dirijido mi atención a la [Playa de los Alemanes][wiki].
+la costa de Cádiz, he dirigido mi atención a la [Playa de los Alemanes][wiki].
 Esta playa es una cala mediana cercana a Zahara de los Atunes, y he tenido la
 oportunidad de visitarla este fin de semana.
 
@@ -49,7 +49,7 @@ suspensión de partículas en el agua lo permite y hay algún arrecife que
 explorar.
 
 Por cierto, parece que [Zahara de los Atunes tiene un pecio][pecio] en medio
-de la playa y se me ha quedado pendiente de investigarlo. Tendré que volver :-)
+de la playa y se me ha quedado pendiente investigarlo. Tendré que volver :-)
 
 
 [wiki]:			https://es.wikipedia.org/wiki/Playa_de_los_Alemanes
