@@ -47,6 +47,17 @@ Hemos tenido un día fantástico. Ya estamos preparando la siguiente
 aventura de kayak. Estoy decidido a explorar el Pantano de los Hurones y ¡ese
 será mi próximo destino!
 
+Un video resumen de la experiencia:
+
+<center>
+<iframe width="560" height="315"
+        src="https://www.youtube-nocookie.com/embed/4dlqol7S_So"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
+</center>
+
 [foto]:		{{site.url}}/assets/2019-08-05-kayak-zahara.png
 [old]:		{{site.url}}/2017/08/27/kayak-zahara.html
 [mogote]:	http://elmogote.com/
