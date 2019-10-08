@@ -13,6 +13,12 @@ resultan de interés recurrente.
  * tiempo.com: [Constantina][tiempo.com_constantina], [Cazalla][tiempo.com_cazalla], [San Nicolas del Puerto][tiempo.com_sannicolas]
  * eltiempo.es: [Constantina][eltiempo.es_constantina], [Cazalla][eltiempo.es_cazalla], [San Nicolas del Puerto][eltiempo.es_sannicolas]
 
+#### Sierra de Aracena, Huelva
+
+ * AEMET: [Aracena][aemet_aracena], [Aroche][aemet_aroche], [Cortegana][aemet_cortegana]
+ * tiempo.com: [Aracena][tiempo.com_aracena], [Aroche][tiempo.com_aroche], [Cortegana][tiempo.com_cortegana]
+ * eltiempo.es: [Aracena][eltiempo.es_aracena], [Aroche][eltiempo.es_aroche], [Cortegana][eltiempo.es_cortegana]
+
 #### Parque Natural de los Alcornocales, Cadiz
 
  * AEMET: [Alcalá de los Gazules][aemet_gazules], [Castellar de la Frontera][aemet_castellar], [Jimena de la Frontera][aemet_jimena]
@@ -74,6 +80,15 @@ resultan de interés recurrente.
 
 ![windchill][windchill]
 
+[aemet_aracena]:		https://www.aemet.es/es/eltiempo/prediccion/municipios/aracena-id21007
+[tiempo.com_aracena]:		https://www.tiempo.com/aracena.htm
+[eltiempo.es_aracena]:		https://www.eltiempo.es/aracena.html
+[aemet_aroche]:			https://www.aemet.es/es/eltiempo/prediccion/municipios/aroche-id21008
+[tiempo.com_aroche]:		https://www.tiempo.com/aroche.htm
+[eltiempo.es_aroche]:		https://www.eltiempo.es/aroche.html
+[aemet_cortegana]:		https://www.aemet.es/es/eltiempo/prediccion/municipios/cortegana-id21025
+[tiempo.com_cortegana]:		https://www.tiempo.com/cortegana.htm
+[eltiempo.es_cortegana]:	https://www.eltiempo.es/cortegana.html
 [aemet_ronda]:                  https://www.aemet.es/es/eltiempo/prediccion/municipios/ronda-id29084
 [tiempo.com_ronda]:             https://www.tiempo.com/ronda.htm
 [eltiempo.es_ronda]:            https://www.eltiempo.es/ronda.html
