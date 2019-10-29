@@ -50,6 +50,13 @@ resultan de interés recurrente.
 </iframe>
 </center>
 
+<center>
+<iframe width="800" height="400"
+	src="https://embed.windy.com/embed2.html?lat=36.646&lon=-5.008&zoom=10&level=surface&overlay=wind&menu=&message=&marker=&calendar=24&pressure=&type=map&location=coordinates&detail=true&detailLat=36.692&detailLon=-5.009&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1"
+        frameborder="0">
+</iframe>
+</center>
+
 #### Parque Natural Sierra de Tejeda, Almijara y Alhama, Málaga
 
  * AEMET: [Alhama de Granada][aemet_alhama], [Canillas de Aceituno][aemet_canillas], [Alcaucin][aemet_alcaucin]
