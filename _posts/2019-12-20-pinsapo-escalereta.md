@@ -9,7 +9,7 @@ tags:	[montaña]
 
 A principio de Diciembre pudimos disfrutar de unos días en familia en la
 Serranía de Ronda. El sábado, en concreto, nos escapamos a conocer una ruta
-de senderismo muy conocida y sencilla: a ruta del Pinsao de las Escaleretas.
+de senderismo muy conocida y sencilla: la ruta del Pinsapo de las Escaleretas.
 
 Este monumento natural está en la Sierra de las Nieves. El camino es muy
 sencillo, apenas reviste desnivel y planificamos poco más que ir a comernos
