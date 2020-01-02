@@ -43,7 +43,7 @@ Cenamos y como no tenemos mucho que hacer, procedemos a acostarnos. Una
 compañera del equipo se encuentra indispuesta durante la noche, con unos
 ataques de tos considerables, lo que nos tiene "en vela" gran parte de la noche.
 A las 4:00 de la madrugada nos encontramos despiertos la mayoría del grupo.
-Como tengo a mano el infernillo y unas infusiones de meta/tomillo, me pongo
+Como tengo a mano el infernillo y unas infusiones de menta/tomillo, me pongo
 manos a la obra. Es otro recordatorio de lo que implican las aventuras en el
 medio natural: ya no estamos rodeados de las comodidades de un pueblo.
 
