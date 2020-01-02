@@ -17,8 +17,8 @@ el bocadillo allí en el monte.
 
 <!--more-->
 
-Empezamos a andar sobre las 13:30, un día soleado pero con ciertas nubes muy
-bajas y húmedas que se acercaban de vez en cuando. El camino lo encontramos,
+Empezamos a andar sobre las 13:30, un día soleado pero con algunas nubes muy
+bajas y húmedas que acechaban de vez en cuando. El camino lo encontramos,
 ciertamente, lleno de otras familias que venian a hacer nuestra misma ruta u
 otras muy similares.
 
@@ -46,7 +46,7 @@ se resolviera. De hecho, tras almorzar decidimos andar de vuelta y dar por
 finalizada la jornada sin que diera lugar a muchas más aventuras o
 exploraciones por la zona.
 
-Creo que me quedé sin ver algunas cosas más de la lista de singulares que
+Creo que me quedé sin ver algunas cosas de la lista de elementos singulares que
 ofrece esta ruta, pero la verdad es que echamos un buen día.
 
 Referencia:
