@@ -61,7 +61,7 @@ donde hizo una meteo de las que a mi me gusta: soleado y frio.
 
 Pero igualmente, la temporada se da por iniciada y pronto vendrán más cosas.
 
-
+[cadenas]:	{{site.url}}/2018/11/06/algamitas.html
 [algamitas]:	{{site.url}}/assets/20191027-algamitas.png
 [simancon_gif]:	{{site.url}}/assets/20191101-simancon.gif
 [batan]:	{{site.url}}/assets/20191110-batan.png
