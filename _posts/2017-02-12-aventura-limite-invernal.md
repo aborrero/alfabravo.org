@@ -104,7 +104,7 @@ protección frente a los elementos. No nos paramos a mucho más y empezamos
 a pelearnos contra la dura pendiente final.
 
 En este punto, volvemos a encontrarnos a una pareja de montañeros.
-Ellos si que vienen de la cima, pero han dormido en carabana en Los
+Ellos si que vienen de la cima, pero han dormido en caravana en Los
 Quejigales e iniciaron su marcha bastante más temprano que nosotros.
 También van bien equipados, y nos comentan que hace bastante viento
 en la cumbre.
