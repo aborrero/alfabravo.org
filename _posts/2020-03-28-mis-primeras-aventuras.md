@@ -21,16 +21,16 @@ había regalado un tiempo atrás.
 
 <!--more-->
 
-Dejé a Arantxa, mi pareja, durmiendo plácidamente en la cama. Aún recuerdo lo
+Dejé a Arantxa, mi pareja, durmiendo plácidamente en la cama. Recuerdo lo
 llamativo que me resultó levantarme tan temprano un sábado, y meterme en
 carretera aún de noche. Ver amanecer de camino a la montaña se convertiría
 después en una de las cosas que más disfrutaría de cada aventura.
-Aún recuerdo las sensaciones que tuve cuando llegamos al entorno de la Sierra
+También recuerdo las sensaciones que tuve cuando llegamos al entorno de la Sierra
 de las Nieves. Los colores, las formas y los aromas del monte me envolvieron
 en la magia que desprenden, y desde entonces me sentiría atrapado.
 
-Aquel dia de enero de 2012, yo no tenía ni idea de lo que era subir a una cima
-de montaña. Empezamos a andar y para mi las experiencias del camino fueron una
+No tenía ni idea de lo que era subir a una cima de montaña aquel día de enero
+de 2012. Empezamos a andar y para mi las experiencias del camino fueron una
 aventura tras otra: cruzar el bosque de pinsapos de la cañada del cuerno, el
 cambio a vegetación de alta montaña, los fuertes vientos de las zonas más
 expuestas o las vistas del mar de nubes que por fortuna tuvimos ese día.
@@ -40,7 +40,7 @@ y aporta aún más impresión de lo remoto y especial del monte.
 
 ![Foto de cima de mi primera visita al Torrecilla][primer]
 
-La parada para almozar que hicimos en la cima fue generosamente larga.
+La parada para almorzar que hicimos en la cima fue generosamente larga.
 Disfrutamos mucho del entorno, y nos tomamos el tiempo necesario para descansar.
 El día era espléndido, despejado, soleado, con temperaturas frías pero suaves
 y con viento moderado. Sabíamos que se nos podría hacer de noche, pero también
@@ -71,7 +71,7 @@ llené de artículos innecesarios. Y de nuevo, las botas baratas.
 ![Foto de cima de mi segunda visita al Torrecilla][segundo]
 
 Y también se nos hizo de noche, aunque esta vez fue a propósito, pues
-llevábamos linternas frontales para la ocasión. Ocurrió además algo este dia
+llevábamos linternas frontales para la ocasión. Ocurrió además algo este día
 que me marcaría por los años venideros: llevábamos walkie-talkies. Cuando
 repartimos los identificativos radiofónicos a mi me tocó __alfa bravo__.
 El uso de walkie-talkies fue otro factor más que me hizo decidir que a partir
