@@ -34,7 +34,7 @@ clases presenciales de la semana siguiente.
 Después de varios días de rumores y especulaciones, con mi familia de España
 presionándome para que volviera lo antes posible, una compañera del programa de
 estudios compra un vuelo para la madrugada del sábado a España. En este momento
-nadie piensa en ella como precavida sino más bien una neurótica.
+nadie piensa en ella como precavida sino más bien como una persona neurótica.
 
 **_2020-03-14 sábado_**:
 
