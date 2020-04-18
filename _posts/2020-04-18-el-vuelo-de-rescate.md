@@ -7,7 +7,7 @@ tags:	[aventura, historia]
 
 ![El grupo de viajeros de esta aventura][grupo]
 
-**_Este artículo está escrito por Miguel Suso González_**
+**_Este artículo está escrito por Miguel Suso González._**
 
 A principios de marzo de 2020 ya teníamos una gran afluencia de noticias y
 rumores de que la epidemia de COVID-19 o coronavirus nos llegaría de lleno a
@@ -213,6 +213,6 @@ plasmar una crónica de una aventura diferente, que en ningún caso es un drama,
 si no una experiencia por momentos trepidante. Es mi primer vuelo de rescate,
 y primera pandemia.
  
-**_Este artículo está escrito por Miguel Suso González_**
+**_Este artículo está escrito por Miguel Suso González._**
 
 [grupo]:	{{site.url}}/assets/20200418-vuelo-rescate.png
