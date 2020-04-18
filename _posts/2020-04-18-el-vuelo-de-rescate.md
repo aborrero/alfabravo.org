@@ -38,10 +38,10 @@ nadie piensa en ella como precavida sino más bien como una persona neurótica.
 
 **_2020-03-14 sábado_**:
 
-Empieza el día aguardando noticias de la universidad. Se espera que nos
+Empezamos el día aguardando noticias de la universidad. Se espera que nos
 comuniquen qué va a pasar con el resto del curso. Mis compañeros de clase
-españoles y yo empezamos a mentalizarnos de que lo más probable era que la
-vuelta a España se adelantase con respecto a lo previsto.
+españoles y yo empezamos a mentalizarnos de que lo más probable es que la
+vuelta a España se adelante con respecto a lo originalmente previsto.
 
 Por la tarde nos comunican lo que nos temíamos: se cancelan las clases hasta
 final de curso, que, a partir de ahora, iban a ser online. Comprobamos vuelos y
@@ -55,17 +55,18 @@ electricidad, etc. Además, había que hacer gestiones añadidas, en mi caso,
 tenía que comunicar que me iba a ir antes de lo previsto del McDonald’s donde 
 trabajaba y hacer las gestiones pertinentes. De hecho, este mismo día trabajé
 mis horas. Con esto quiero decir, que no todos podíamos irnos de un día para
-otro, como hizo la compañera que voló hoy.
+otro, como hizo la compañera que tomamos por neurótica. Qué equivocados
+estábamos
 
 **_2020-03-15 domingo_**:
 
-A marchas forzados, iniciamos el cierre del contrato de piso y nos llevamos
+A marchas forzadas, iniciamos el cierre del contrato del piso y nos llevamos
 limpiando todo el día. Hay que preparar maletas y recoger muchas cosas. La
 incertidumbre va en aumento con las noticias constantes de vuelos cancelados,
 los rumores de cierres de fronteras y las sospechas de medidas excepcionales
 para el control del virus, como las restricciones a la circulación de personas.
 
-En España, de hecho, ya era oficial que habría al menos 2 semanas de
+En España, de hecho, ya es oficial que habría al menos 2 semanas de
 confinamiento obligatorio generalizado para toda la población.
 
 **_2020-03-16 lunes_**:
@@ -97,7 +98,8 @@ eran conscientes de lo que estaba pasando en el mundo.
 Nos confirmaron que se habían anulado todos los vuelos y la única solución que
 nos ofrecieron era volver la semana siguiente a ver si programaban nuevos
 vuelos. A más de uno se le encogió el pecho de pensar en que teníamos que
-quedarnos a dormir una semana en el aeropuerto.
+quedarnos a dormir una semana en el aeropuerto. Ya habíamos soltado los pisos
+de alquiler.
 
 Después de discutir mucho en francés e inglés con ellos, conseguimos plazas en
 un vuelo para el día siguiente a Alicante que salía a las 15.30h. Esto supuso
@@ -120,10 +122,10 @@ Guardia Civil. La empresa no quería tomar ningún riesgo.
 
 Hablamos con la Universidad de Sevilla y con la Guardia Civil, con esta última
 después de que el padre de un compañero nuestro pidiese un favor a un amigo.
-Conseguimos que nos hagan una carta firmada y sellada por ambos, con nuestros
-nombres y DNI de cada uno. Nos avisan de que si nuestros familiares venían a
-recogernos a la parada del autobús en Sevilla debían tener algún tipo de
-justificante también. Pero no recibimos este último papel.
+Conseguimos que nos hicieran una carta firmada y sellada por ambos, con
+nuestros nombres y DNI de cada uno. Nos avisan de que si nuestros familiares
+venían a recogernos a la parada del autobús en Sevilla debían tener algún tipo
+de justificante también. Pero no recibimos este último papel.
 
 No es hasta las 11.30h cuando finalmente conseguimos contratar el autobús. Y
 poco después, sobre las 12.00h facturamos las maletas y pasamos el control de
@@ -141,7 +143,7 @@ A las 14.00h nos llevamos la siguiente gran sorpresa. ANULADO. Eso ponía en la
 pantalla. Aquello era imposible, no podían anular un vuelo de rescate, o eso
 creíamos.
 
-Nos cogieron el teléfono atención al cliente de Easyjet y nos dijeron que no
+Nos cogieron el teléfono de atención al cliente de Easyjet y nos dijeron que no
 nos iban a dejar entrar en el avión porque era solo para españoles
 pertenecientes a grupos de riesgo o con problemas de salud. Intentamos volver a
 la ventanilla de Easyjet, pero ya habíamos pasado el control de seguridad del
@@ -151,8 +153,8 @@ Easyjet.
 
 Desesperado, a las 14.30h llamo a la embajada española en Francia a ver qué
 podían hacer por nosotros. Después de explicar detalladamente nuestro problema
-la mujer contestó literalmente: "Anda... pues va a haber que buscar una
-solución". Vergonzoso. Nos dijo que no podía hacer nada por nosotros y nos dijo
+la persona contestó literalmente: "Anda... pues va a haber que buscar una
+solución". Vergonzoso. Nos dijo que no podía hacer nada por nosotros y
 que eso concernía al consulado de Lyon. Allí llamé, y aunque en este consulado
 pusieron más interés, me dijeron que no podían hacer nada por nosotros, que eso
 "concierne al consulado de Estrasburgo". En este último tampoco nos prestaron
@@ -176,8 +178,9 @@ Pero no nos dejaban embarcar. A las 16.00h estábamos literalmente atrincherados
 en la puerta de embarque: si el vuelo salía nosotros íbamos a ir dentro. No
 hubo manera de embarcar hasta que llegó la empleada que nos había escuchado
 antes. Por fin, parecía un sueño, pudimos entrar al avión.
-Desafortunadamente, hubo mucha gente a la que no dejaron embarcar, desconozco
-el por qué. Se quedaron en la misma puerta de embarque, con billete y todo.
+Desafortunadamente, hubo mucha otra gente externa a nuestro grupo a la que no
+dejaron embarcar, desconozco el por qué. Se quedaron en la misma puerta de
+embarque, con billete y todo.
 
 A las 16.30h, con 1h de retraso, despegamos. El avión estaba entero para
 nosotros y para dos señoras más. Sobre las 19.00h aterrizamos en Alicante. El
