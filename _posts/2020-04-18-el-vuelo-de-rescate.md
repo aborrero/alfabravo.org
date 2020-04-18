@@ -124,8 +124,8 @@ Hablamos con la Universidad de Sevilla y con la Guardia Civil, con esta última
 después de que el padre de un compañero nuestro pidiese un favor a un amigo.
 Conseguimos que nos hicieran una carta firmada y sellada por ambos, con
 nuestros nombres y DNI de cada uno. Nos avisan de que si nuestros familiares
-venían a recogernos a la parada del autobús en Sevilla debían tener algún tipo
-de justificante también. Pero no recibimos este último papel.
+venían a recogernos a la parada del autobús en Sevilla debían tener este
+justificante también. Estado totalmente policial.
 
 No es hasta las 11.30h cuando finalmente conseguimos contratar el autobús. Y
 poco después, sobre las 12.00h facturamos las maletas y pasamos el control de
