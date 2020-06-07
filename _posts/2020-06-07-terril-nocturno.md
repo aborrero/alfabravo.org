@@ -65,6 +65,18 @@ La aventura de hoy ha sido simplemente estupenda. Ha cumplido e incluso superado
 expectativas. Sinceramente, espero que podamos volver pronto al escenario de gran frecuencia de
 actividades en la naturaleza que solíamos tener hace unos meses.
 
+Un video resumen del día:
+
+<center>
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/Ly8wBgkkjIA"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</center>
+<br/>
+
 [grupo]:	{{site.url}}/assets/20200607-terril-grupo.png
 [marzo]:	{{site.url}}/2020/03/08/parauta.html
 [wiki_terril]:	https://es.wikipedia.org/wiki/Pico_del_Terril
