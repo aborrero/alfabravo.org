@@ -48,9 +48,9 @@ En cualquier caso, la relativa baja temperatura en contraste a cuándo salimos d
 Ya es noche cerrada, y tenemos que empezar a usar otro de nuestros equipamientos técnicos que
 esperábamos usar hoy: las linternas frontales.
 
-Bajamos a muy buen ritmo. Habíamos grabado el track de subida y queríamos bajar exactamente por el
-mismo sitio. Al existir varios senderos de cabras y posibles rutas, todo aún más confuso en la
-oscuridad, nos servimos mucho del GPS, en el que llevábamos un ojo puesto siempre.
+Bajamos a muy buen ritmo. Habíamos [grabado el track][track] de subida y queríamos bajar
+exactamente por el mismo sitio. Al existir varios senderos de cabras y posibles rutas, todo aún más
+confuso en la oscuridad, nos servimos mucho del GPS, en el que llevábamos un ojo puesto siempre.
 
 El equipo de hoy lo formábamos 7 personas, moviéndonos en fila india prácticamente todo el tiempo
 de bajada. Con el ruido del viento era imposible comunicarnos en la fila, así que nos servimos
@@ -68,3 +68,4 @@ actividades en la naturaleza que solíamos tener hace unos meses.
 [grupo]:	{{site.url}}/assets/20200607-terril-grupo.png
 [marzo]:	{{site.url}}/2020/03/08/parauta.html
 [wiki_terril]:	https://es.wikipedia.org/wiki/Pico_del_Terril
+[track]:	https://es.wikiloc.com/rutas-senderismo/pico-terril-sierra-sur-de-sevilla-50645753
