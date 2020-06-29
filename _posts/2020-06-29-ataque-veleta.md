@@ -97,6 +97,18 @@ equipo apropiado, que funcione cohesionado, con quien poder compartir este tipo 
 parece a veces poco menos que un milagro. Creo que nos sentimos agradecidos con el universo por que
 ocurran estas interesantes aventuras.
 
+Un video resumen del día:
+
+<center>
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/0_dEH6l6Wts"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</center>
+
+
 [cima]:		{{site.url}}/assets/20200629-veleta-cima.png
 [ref1]:		{{site.url}}/assets/20200629-veleta-refugio1.png
 [ref2]:		{{site.url}}/assets/20200629-veleta-refugio2.png
