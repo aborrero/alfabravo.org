@@ -17,7 +17,7 @@ Por la información y fotos de que disponíamos, esperábamos encontrar una play
 con afluencia de gente limitada. Cuando llegamos al sitio, encontramos que para bajar a la playa
 hay que darse un buen paseo, salvando del orden de 100 metros de desnivel por un sendero y unas
 escaleras que llegan hasta el mismo nivel del mar. Es lo mínimo que se despacha en este tipo de
-entornos, y desde luego este desnivel no nos va a impedir nuestra actividad.
+entornos, y desde luego este desnivel no es algo que nos vaya a impedir realizar nuestra actividad.
 
 <!--more-->
 
