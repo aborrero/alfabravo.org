@@ -92,7 +92,12 @@ experimentamos con el tramo masificado de gente. Hemos visitado esto en plena te
 de Julio. Estoy seguro de que realizar esta actividad en primavera u otoño, con incluso más caudal
 de agua, debe de ser una experiencia aún mejor. Volveremos!
 
-Referencia: [Wikiloc - Track GPS descenso del Sella 19km][track]
+<div class="iframeWrapper">
+<iframe frameBorder="0" scrolling="no"
+  src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=53737642&measures=on&title=on&near=on&images=off&maptype=T"
+  width="500" height="400">
+</iframe>
+</div>
 
 [wiki_sella]:	https://es.wikipedia.org/wiki/R%C3%ADo_Sella
 [k2aventura]:	https://www.k2aventura.com/
