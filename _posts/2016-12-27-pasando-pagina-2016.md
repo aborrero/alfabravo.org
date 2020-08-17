@@ -21,12 +21,12 @@ genial, la temporada de verano 2016 ha sido estupenda y lo que se avecina en la
 
 El video está accesible en [youtube][youtube].
 
-<center>
+<div class="iframeWrapper">
 <iframe width="640" height="360" 
 		src="https://www.youtube-nocookie.com/embed/ZfiZDVr1k5k"
 frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Felices fiestas y próspero año nuevo 2017!
 

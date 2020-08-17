@@ -45,12 +45,12 @@ El día de senderismo entre las montañas fue estupendo, casi 12km y en torno a
 500m de desnivel acumulado, que no está nada mal para un "paseito".
 Hoy hemos sido 5 personas, un equipo genial.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube.com/embed/tFaEE_ouwA0"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Referencias y enlaces:
 

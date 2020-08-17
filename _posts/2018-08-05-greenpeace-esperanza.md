@@ -27,12 +27,12 @@ operaciones e incursiones de activismo en el mar.
 
 Un video de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/NfZE_aq-NMI"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 En 2016 traduje al español un artículo del blog de Greenpeace Nueva Zelanda
 titulado ["Una montaña inexplorada, por Greenpeace"][blog]. Ya por entonces

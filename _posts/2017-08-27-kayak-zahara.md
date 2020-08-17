@@ -81,12 +81,12 @@ funciona el vaciado, etc.
 
 Aquí tenemos un video mientras nos comemos el bocadillo en la isla:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/FcuJ5ouGnpQ"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 A eso de las 14:45 iniciamos la marcha de vuelta.
 

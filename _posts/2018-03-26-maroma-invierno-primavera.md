@@ -91,12 +91,12 @@ un sitio minimamente resguardado del viento. Tenemos que encontrar un balance
 entre bajar y reponer fuerzas, que solucionamos metiendonos detrás de la
 primera roca grande que hay en el camino de bajada de la cima.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/YbyawISEsC0"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Reanudamos la marcha descendente, con mucho frio y cansados de llevar tanto
 tiempo los crampones por un terreno tan pedregoso. A medida que bajamos,
@@ -118,12 +118,12 @@ Este sitio está genial, nos atienden muy bien, está todo muy limpio, tranquilo
 y a precios muy económicos. ¿Qué más se puede pedir? Este hotel es totalmente
 recomendable, ha sido una gran elección, y volveremos.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/Gvv8H4P6IIU"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 Las fuerzas han estado hoy justas, y hemos ejercitado bastante nuestra

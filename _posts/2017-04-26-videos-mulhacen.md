@@ -20,22 +20,22 @@ están aquí: [parte 1][pt1] y [parte 2][pt2].
 
 Video resumen, por Pablo Castillo Rivas [[link]][resumen]:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/nuNtBOjk3nA?rel=0&amp;showinfo=0"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 Playlist de cortes videos, algunos son muy buenos [[link]][playlist]:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/videoseries?list=PLl_fK7dUYicOY6D-ulgaZOh9BF1w9yrOH"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 [logo]:			{{site.url}}/assets/logo_extraviaos_wide.png

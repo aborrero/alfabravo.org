@@ -27,13 +27,13 @@ El artículo está acompañado de un video en el que se muestran algunas
 situaciones impactantes, que deben hacernos reconsiderar nuestro respeto a las
 fuerzas de la naturaleza y de qué manera nos acercamos a ellas.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/e8JlSJ9sUUg"
 	frameborder="0" allow="accelerometer; autoplay; encrypted-media;
 	gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 En otro artículo, titulado [Lluvia engelante][lluvia], aprendemos de este
 curioso efecto meteorológico, y sus consecuencias e implicaciones para la

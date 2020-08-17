@@ -64,12 +64,12 @@ El domingo nos levantamos y nos vovemos para Dos Hermanas.
 El equipo del Mulhacen bajará más tarde. Han cumplido su objetivo, y tienen
 este video:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/r0_obunqjr0"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Uno de los objetivos era conocer el Albergue Universitario de Sierra Nevada,
 y este objetivo está cumplido. No me arrepiento de haberme quedado en el "campo

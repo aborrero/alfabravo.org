@@ -37,12 +37,12 @@ con otros lugares, pero aún así le doy una alta puntuación a este lugar.
 
 Un video de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/4JoxTC3NL0A"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Realizar snorkel en arena dorada es siempre un lujo, especialmente si la
 suspensión de partículas en el agua lo permite y hay algún arrecife que

@@ -49,12 +49,12 @@ piedras, y hubo varias caidas (me incluyo).
 Lo cierto es que cuando llegamos al pueblo, no pudimos resistirnos a
 descolgarnos las mochilas y darnos un "homenaje" desayunando en un bar.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube.com/embed/i0nYzMgtpQk"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 La temperatura ambiente estaba subiendo, ya teníamos más de 20º, y el sol
 picaba. Mientras desayunábamos nuestro equipo empezó a desganarse con la idea

@@ -62,12 +62,12 @@ podido afrontarlo con solvencia.
 
 Un video de la cima, donde pueden apreciarse el viento y la niebla:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="640" height="360"
 	src="https://www.youtube-nocookie.com/embed/EWaHP5T07_8?rel=0"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 No estuvimos más de 30 minutos en el pico, pero este tiempo fue suficiente
 para que el frio empezara a ser bastante molesto, por lo que nos apresuramos

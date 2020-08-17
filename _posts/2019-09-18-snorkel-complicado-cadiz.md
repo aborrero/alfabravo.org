@@ -53,14 +53,14 @@ excursión de snorkel.
 
 Un corto video, resumen de la experiencia:
 
-<center>                                                        
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/WkiZhRg-RDA"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
-</center>
+</div>
 <br/>
 
 Volveremos!

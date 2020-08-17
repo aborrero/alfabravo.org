@@ -18,10 +18,10 @@ por supuesto es mejorable en muchos aspectos.
 
 El video puede encontrarse en esta URL: [https://youtu.be/5txlMmA_z4E][youtube]
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5txlMmA_z4E"
 	frameborder="0" allowfullscreen></iframe>
-</center>
+</div>
 
 También hay una [playlist][playlist] con todos los cortes de video originales.
 

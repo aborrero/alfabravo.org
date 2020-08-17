@@ -27,12 +27,12 @@ El reportaje puede visualizarse online en los siguientes sitios:
 * Youtube: [https://youtu.be/meSl6x-PxDY](https://youtu.be/meSl6x-PxDY)
 * RTVE a la carta: [http://www.rtve.es/alacarta/videos/repor/repor-166/4257365/](http://www.rtve.es/alacarta/videos/repor/repor-166/4257365/)
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/meSl6x-PxDY?rel=0"
         frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 <br/>
 

@@ -30,12 +30,12 @@ Una vez alcanzada la zona alta, empieza lo que a mi parecer es la parte más
 mágica del trayecto. Un sendero a media ladera de la montaña que va
 recorriendo, sin apenas desnivel, toda la falda de la Sierra del Pinar.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="640" height="360"
 	src="https://www.youtube-nocookie.com/embed/pHz9nw-txBQ?rel=0&amp;controls=0"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 La meteorología del día fue excepcional para la aventura que estábamos
 llevando a cabo. Cielo despejado, temperaturas muy agradables y sol radiante.
@@ -63,12 +63,12 @@ aventuras que he vivido hasta ahora en las montañas.
 
 Un video resumen del dia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="640" height="360"
 	src="https://www.youtube-nocookie.com/embed/t9osy9iblkc?rel=0&amp;controls=0"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 _En este post he usado fotos y videos de Salvador Castillo Posada_
 

@@ -44,12 +44,12 @@ entorno.
 
 Un video de estas experiencias:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/qrHLrZyS6Mo"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 [lagos]:		{{site.url}}/2016/07/29/snorkel_lagos.html
 [flechaextreme]:	http://www.flechaextreme.com/

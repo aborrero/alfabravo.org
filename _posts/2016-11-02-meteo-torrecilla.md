@@ -52,11 +52,11 @@ Los datos que ofrece MeteoExploration son bastante buenos, dado que incluyen
 información sobre isotermas, cota de nieve, viento en altura, etc. Sin embargo
 también he encontrado veces que esta predicción ha fallado estrepitosamente.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="450" height="350" frameborder="0" scrolling="no"
 	src="http://www.meteoexploration.com/mountain/getweather.php?code=IBP040&lang=es&si=Metric&wgsz=1">
 </iframe>
-</center>
+</div>
 
 Hay que tener en cuenta que la precisión a más de 6 días es realmente pobre
 y debe tomarse con cuidado.

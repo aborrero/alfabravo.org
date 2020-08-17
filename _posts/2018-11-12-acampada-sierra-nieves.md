@@ -122,21 +122,21 @@ contentos, satisfechos y con ganas de más :-)
 Un video timelapse de por la mañana, recogiendo el campamento base mientras
 sale el sol:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/Yct6eUlJKFE"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Y otro video, resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/xZifAjMjh9A"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Referencia:
 

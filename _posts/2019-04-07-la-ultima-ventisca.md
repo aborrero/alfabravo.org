@@ -146,14 +146,14 @@ habria unos -10ºC de sensación térmica.
 
 Un video resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/k117-T3q-y0"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Hemos formado un equipazo hoy. La última ventisca de la temporada ha sido
 espectacular.

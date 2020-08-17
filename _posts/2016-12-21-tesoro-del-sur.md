@@ -50,12 +50,12 @@ cuatro episodios gira en torno a una estación:
 3. Monte inteligente (primavera) [[youtube]][ytb_ep3] [[rtve]][rtve_ep3]
 4. Vida al límite (verano) [[youtube]][ytb_ep4] [[rtve]][rtve_ep4]
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/videoseries?list=PLl_fK7dUYicN_a9hRRY-coHMhHwBunomR"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Playlist de Youtube:  [link][playlist]
 

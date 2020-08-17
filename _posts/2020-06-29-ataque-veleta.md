@@ -99,14 +99,14 @@ ocurran estas interesantes aventuras.
 
 Un video resumen del día:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/0_dEH6l6Wts"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 [cima]:		{{site.url}}/assets/20200629-veleta-cima.png

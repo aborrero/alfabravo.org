@@ -38,12 +38,12 @@ característicos, además del museo Miniatur Wunderland y el jardín japonés.
 
 Aquí un video resumen del viaje:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/lxwSkfjxFeI"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 [hamburgo]:		{{site.url}}/assets/20180920-hamburgo.png

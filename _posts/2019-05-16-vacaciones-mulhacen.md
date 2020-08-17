@@ -85,14 +85,14 @@ estos días, y que llevábamos un tiempo buscando después de nuestro intento
 
 Un video resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
         src="https://www.youtube-nocookie.com/embed/JKuCNlDOozg"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
 </iframe>
-</center>
+</div>
 
 [mulhacen_2016]:	{{site.url}}/2016/08/04/temporada_2016.html
 [mulhacen_2017]:	{{site.url}}/2017/04/16/aventura-mulhacen.html

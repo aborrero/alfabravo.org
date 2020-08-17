@@ -20,12 +20,12 @@ El video puede visitarse en youtube: [https://youtu.be/MNS3PJ2Urpo][yt]
 
 También lo dejo aquí:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube-nocookie.com/embed/MNS3PJ2Urpo?rel=0"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 <br/>
 

@@ -144,7 +144,7 @@ plenamente.
 
 Aquí dejo unos videos del arrecife, grabados por Sergio García Durán:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="640" height="360"
 	src="https://www.youtube-nocookie.com/embed/MM-_8rSIAhI"
 	frameborder="0" allowfullscreen>
@@ -154,7 +154,7 @@ Aquí dejo unos videos del arrecife, grabados por Sergio García Durán:
 	src="https://www.youtube-nocookie.com/embed/GiFoT1t23-8"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 <br/>
 

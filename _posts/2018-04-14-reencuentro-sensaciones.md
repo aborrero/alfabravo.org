@@ -32,12 +32,12 @@ Hemos hechado una buena jornada, y lo mejor, hemos tenido un reencuentro con las
 buenas sensaciones y la cara más agradable del monte.
 
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube.com/embed/HM-_gR6caZQ"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Referencias y enlaces:
 

@@ -87,12 +87,12 @@ hemos podido disfrutar bastante.
 
 Video resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/-FEgC2hYdiE"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 Referencia:

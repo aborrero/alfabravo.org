@@ -52,12 +52,12 @@ en el canal.
 
 Video resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
         src="https://www.youtube-nocookie.com/embed/vu5Gw2wRcyc"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 
 Referencia:

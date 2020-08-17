@@ -73,14 +73,14 @@ misma: hicimos bien en no continuar subiendo.
 
 Un video resumen del día:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/AIXCQZlacQQ"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
-</center>
+</div>
 <br/>
 
 [ventisca]:	{{site.url}}/2019/04/07/la-ultima-ventisca.html

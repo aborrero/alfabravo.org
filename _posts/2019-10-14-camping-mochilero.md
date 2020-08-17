@@ -53,14 +53,14 @@ zona de Sierra Morena. ¡Pocos pasajeros tiene!
 
 Un corto video, resumen de la experiencia:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="560" height="315"
 	src="https://www.youtube-nocookie.com/embed/ht848-w5738"
 	frameborder="0"
 	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 	allowfullscreen>
 </iframe>
-</center>
+</div>
 <br/>
 
 La valoración general de la actividad creo que es positiva, incluso después de

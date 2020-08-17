@@ -58,12 +58,12 @@ buscar playas que tengan la zona interesante de snorkel a la izquierda.
 A continuación, un vídeo del arrecife central y derecho  de la playa
 de Cantarriján:
 
-<center>
+<div class="iframeWrapper">
 <iframe width="80%" height="315"
 	src="https://www.youtube.com/embed/45-EEc8bM9M?list=PLl_fK7dUYicNRar4-z0QYEabyJFjWLSSi"
 	frameborder="0" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Los días que la visibilidad y el oleaje acompañan, estas playas pueden darnos
 unas experiencias de snorkel ciertamente intensas, con tanta visibilidad

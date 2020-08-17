@@ -170,12 +170,12 @@ seguro asociada a la licencia federativa de montaña, y le hacen una
 radiografía en un hospital privado de Jaen. No tiene ninguna lesión ósea, y
 en principio todo ha quedado en un susto: una fuerte contusión en la rodilla.
 
-<center>
+<div class="iframeWrapper">
 <iframe width="400" height="225"
 	src="https://www.youtube.com/embed/KoPdbROqiZI"
 	frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
 </iframe>
-</center>
+</div>
 
 Desde luego que la experiencia de hoy ha sido muy exigente. No era lo que
 buscábamos, y sinceramente, creo que no tengo la forma física adecuada para
