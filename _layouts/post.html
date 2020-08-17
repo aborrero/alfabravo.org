@@ -14,4 +14,25 @@ layout: default
   <div>
     <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES"><img src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"/></a>
   </div>
+
+  <br/>
+  <div class="post-related">
+    <hr/>
+    <table>
+      <thead>
+        <tr>
+          <th>Otros artículos recientes</th>
+          <th>Fecha</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in site.related_posts limit:3 %}
+        <tr>
+          <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+          <td>{{ post.date | date: "%-d %b %Y" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </article>
