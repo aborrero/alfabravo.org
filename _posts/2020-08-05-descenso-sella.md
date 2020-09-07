@@ -40,25 +40,25 @@ descansar y relajarnos.
 Al poco tiempo nos alcanza una canoa por detrás. Él de Madrid, ella de Australia. Coincidimos en
 un pequeño rápido tan poco profundo que tenemos que bajarnos y remolcar brevemente las
 embarcaciones hasta aguas un poco más profundas. Estamos disfrutando de la actividad a unos niveles
-extraordinarios, pero somos conscientes de que cuando lleguemos al pueblo de Arríondas la cosa
+extraordinarios, pero somos conscientes de que cuando lleguemos al pueblo de Arriondas la cosa
 cambiará porque allí habrá más gente iniciando el descenso.
 
 El Descenso del Sella es en general una actividad muy conocida y demandada por turistas de
 aventuras como nosotros. Yo supe que esto existía hace unos 10 años, y ya entonces intenté
 organizar con mi grupo de aventuras, sin éxito, una visita a este lugar. Ha tenido que pasar un
 buen tiempo para que todo cuadre y pudiéramos escaparnos a conocer este río tan famoso. De hecho,
-cuando llegamos a Arríondas en coche quedamos sorprendidos, y quizás un poco horrorizados, al ver
+cuando llegamos a Arriondas en coche quedamos sorprendidos, y quizás un poco horrorizados, al ver
 la gran cantidad de empresas de turismo activo con instalaciones en las orillas del río a la altura
 del pueblo. Según sabríamos luego, hay del orden de 30 empresas ofertando esta experiencia en el
 Sella. Previamente, yo había tanteado algunas de ellas, y finalmente decidiría que realizaríamos la
 actividad con la empresa [K2 aventura][k2aventura]. La gran diferencia es que el inicio lo tienen
-en Las Rozas, unos 4 kilómetros río arriba por encima de Arríondas, que es donde todas las demás
+en Las Rozas, unos 4 kilómetros río arriba por encima de Arriondas, que es donde todas las demás
 empresas empiezan sus actividades.
 
 Contratar con esta empresa fue un tremendo acierto, y marcó una gran diferencia, pues cuando el río
-llega a la curva de Arríondas vemos asustados cómo cada vez hay más canoas en el agua. La
+llega a la curva de Arriondas vemos asustados cómo cada vez hay más canoas en el agua. La
 cantidad no para de crecer, hasta llegar a unos números absurdos. Hay tanta gente que la
-actividad pierde de manera abrupta toda la magia del primer tramo. La zona del río en Arríondas se
+actividad pierde de manera abrupta toda la magia del primer tramo. La zona del río en Arriondas se
 convierte en una pista de canoas de choque, apenas hay sitio para maniobrar el kayak sin golpear
 con la pala a los compañeros. Choques y palazos. Los pequeños rápidos, tan divertidos antes, ahora
 son un descontrol, pues es imposible maniobrar el kayak entre tanta gente. Temimos por la propia
