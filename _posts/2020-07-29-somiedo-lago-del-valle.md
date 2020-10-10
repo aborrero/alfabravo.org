@@ -67,6 +67,13 @@ tiene este paraje milenario.
 Track de referencia:
 * [Wikiloc de gejota - SOMIEDO: Lago del Valle][track]
 
+<div class="iframeWikilocWrapper">
+<iframe frameBorder="0" scrolling="no"
+  src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=14305019&measures=on&title=on&near=on&images=off&maptype=H"
+  width="500" height="400">
+</iframe>
+</div>
+
 [wiki_somiedo]:	https://es.wikipedia.org/wiki/Parque_natural_de_Somiedo
 [wiki_teito]:	https://es.wikipedia.org/wiki/Teito
 [wiki_orniz]:	https://es.wikipedia.org/wiki/Pe%C3%B1a_Orniz
