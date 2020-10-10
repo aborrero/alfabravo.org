@@ -64,6 +64,18 @@ dejado buenísimas sensaciones. Lo hemos pasado genial y estoy seguro de que
 volveremos, quizás para conocer más de cerca algunas de las muchas montañas que
 tiene este paraje milenario.
 
+Un video recuerdo de la experiencia:
+
+<div class="iframeWrapper">
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/aKhUskqJvZ4"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</div>
+<br/>
+
 Track de referencia:
 * [Wikiloc de gejota - SOMIEDO: Lago del Valle][track]
 
