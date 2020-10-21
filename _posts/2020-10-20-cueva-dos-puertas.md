@@ -19,8 +19,8 @@ de una manera diferente a la tradicional.
 
 Salimos de Sevilla a las 16:00, y a las 18:00 iniciamos el camino desde el aparcamiento del camping
 Tajo Rodillo de Grazalema. Visitamos primero un mirador y luego la Ermita del Calvario. Desde
-aquí, el camino es de constante subida, por un sendero muy desdibujado. Tuvimos dificultades para
-encontrar el camino apropiado. En varios momentos nos vimos obligados a retroceder unos metros para
+aquí, el camino es en constante subida, por un sendero muy desdibujado. Tuvimos dificultades para
+seguirlo. En varios momentos nos vimos obligados a retroceder unos metros para
 reencontrar la senda original. Y en una ocasión concreta nos desviamos tanto que casi acabamos
 enriscados.
 
@@ -28,15 +28,16 @@ Aún era de día, pero el esfuerzo en constante subida y las dificultades para s
 empezando a minar los ánimos del equipo. Con buen criterio, decidimos sentarnos en grupo unos
 momentos y evaluar la situación. Queda poco tiempo de luz, quizás media hora, ya que las 19:45 es
 la hora prevista para el ocaso ¿Continuamos o no? Nuestra planificación era optimista, y
-contemplaba llegar a la cueva a las 19:30. Pero ahora es evidente que llegaremos de noche. También
-consideramos la bajada, ya que no queremos bajar por un sendero complicado y desdibujado de noche.
-Esperamos que el camino de descenso por el lado opuesto del monte será más sencillo, ya que está
-en una zona más transitada del parque. Tras el debate, decidimos unánimemente continuar para arriba.
+contemplaba llegar a la cueva a las 19:30. Pero se hizo evidente que llegaríamos de noche. También
+consideramos las opciones de bajada, ya que queríamos evitar descender de noche por un sendero
+complicado y desdibujado. Apostamos a que el camino de vuelta por el lado opuesto del monte sería
+más sencillo, ya que está en una zona más transitada del parque. Tras el debate, decidimos
+unánimemente continuar para arriba.
 
 ![El equipo de hoy][equipo]
 
 Creo que uno de los motivos por los que perdíamos tanto el camino al inicio es que no había nadie
-concentrado buscando las marcas e hitos o siguiendo el track del GPS. Cuando fue consciente de esto
+concentrado buscando las marcas e hitos o siguiendo el track del GPS. Cuando fuí consciente de esto
 me puse yo mismo manos a la obra a poner atención al sendero. Esto es importante, más aún cuando
 la luz solar está apagándose paulatinamente. A los pocos minutos llegamos a un paso aéreo y
 aparentemente comprometido. Esta cresta inclinada no reviste dificultad técnica alguna para
@@ -47,7 +48,7 @@ Habiendo llegado a la zona alta, en un tramo básicamente plano sin desnivel, tr
 interesantes crestas en las que se hace completamente de noche. Pocos minutos después alcanzamos la
 Cueva de las Dos Puertas. El sitio es magnifico, y las vistas nocturnas del entorno, incluyendo
 muchos de los pueblos de la zona, son privilegiadas. Decidimos bajar al menos un tramo antes de
-parar a cenar, y la parada llegará pocos minutos después debido a que un compañero del equipo sufre
+parar a cenar, y la parada llegará unos momentos después debido a que un compañero del equipo sufre
 calambres en las piernas.
 
 Cenamos, descansamos y nos ponemos de nuevo en marcha descendente. No podemos tampoco despistarnos
