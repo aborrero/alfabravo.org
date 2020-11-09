@@ -16,7 +16,6 @@ Puedes encontrar contenido sobre diversas actividades en la naturaleza:
 * kayak
 * rafting
 * barranquismo
-* surf
 * snorkel
 
 Así mismo, se publican articulos sobre:
