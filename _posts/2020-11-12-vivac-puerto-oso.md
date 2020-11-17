@@ -101,9 +101,9 @@ aportar protección adicional frente a la fría noche.
 
 Soy plenamente consciente del riego de hipotermia, pero valorando la situación, la temperatura,
 viento, y todo el material a nuestra disposición incluyendo infernillos de gas, pienso que el
-asunto está fuera de riesgo inminente. Aún así, cuando me vuelví a acostar me mantuve con la
+asunto está fuera de riesgo inminente. Aún así, cuando me acuesto de nuevo me mantengo con la
 oreja alerta ante cualquier nueva incidencia relacionada con el frio. No debió de ir mal la cosa,
-porque nadie me llamó de nuevo y la próxima vez que miré el reloj eran las 6:30 de la mañana. Había
+porque nadie me llamó otra vez y la próxima vez que miré el reloj eran las 6:30 de la mañana. Había
 dormido seis horas del tirón, que dentro de los estándares de este tipo de aventuras está bastante
 bien. Como me sentía satisfecho, me levanté y empecé a preparar el desayuno. Con el amanecer a las
 7:30, empezaron a salir el resto del equipo de sus tiendas. La pregunta más repetida fue: ¿Cómo has
