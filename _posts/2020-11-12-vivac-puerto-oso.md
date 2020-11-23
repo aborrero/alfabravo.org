@@ -111,7 +111,7 @@ dormido?. Un gran abanico en las respuestas, algunas personas muy bien, otras la
 vida.
 
 Desmontamos el campamento y desandamos el camino del día anterior. El monte está igual de bonito
-que el día anterior, y en el camino de bajada encontramos de nuevo a muchas personas. Llegamos
+que en la jornada previa, y en el camino de bajada encontramos de nuevo a muchas personas. Llegamos
 a las 12:00 a los coches y nos dirigimos al pueblo de Yunquera a deleitarnos con un tardío, pero
 bien merecido desayuno. 
 
