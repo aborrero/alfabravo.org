@@ -21,20 +21,20 @@ era salir a las 8:30. Tras el trayecto en coche, cuando llegamos al sitio, encon
 zona había varios grupos de gente para realizar la misma o similares aventuras. Eso está bien, me
 alegra que una actividad tan saludable y enriquecedora como el senderismo y el montañismo tengan
 un hueco en las frenéticas agendas de la sociedad actual.
-Conseguimos ponernos a andar a eso de las 10:30. El terreno está bastante húmedo debido a las
+Conseguimos ponernos a andar a eso de las 10:30. El terreno estaba bastante húmedo debido a las
 lluvias constantes de los últimos días, y había varias zonas enfangadas. Pero el monte estaba
 precioso, con colores y olores que nos envolvieron para nuestro gran placer.
 
-Subimos a buen ritmo considerando la composición del grupo, que tiene un rango de edad entre 9 y
+Subimos a buen ritmo considerando la composición del grupo, que tenía un rango de edad entre 9 y
 60 años, con más bien poca experiencia andando por el monte. El camino era ciertamente sencillo, y
 no presentaba ninguna exigencia especial si se ponía la adecuada atención a lo que se hacía. Aunque
-claro, inevitablemente, algunos pasos llenos de barro hicieron que alguien se tuviera que manchar
-las manos y el culete tras un resbalón.
+claro, inevitablemente, algunos pasos llenos de barro hicieron que alguien se menchara las manos y
+el culete tras un resbalón.
 
 ![foto2][foto2]
 
-El día se presentaba muy soleado, con poco viento y temperaturas muy suaves. Una meteorología muy
-favorable para la actividad que estábamos realizando. En algunos momentos durante la ascensión, que
+El día se presentó muy soleado, con poco viento y temperaturas muy suaves. Una meteorología muy
+favorable para la actividad que realizábamos. En algunos momentos durante la ascensión, que
 era más exigente para quien estaba menos entrenado, el grupo se separó un poco. Mantuvimos contacto
 por walkie talkie hasta que nos reagrupamos en unos árboles. Habíamos estado andando casi dos horas
 sin parar, a paso lento pero firme. A la sombra de ese árbol descansamos unos momentos antes del
@@ -49,8 +49,8 @@ Contemplamos la geografía circundante, identificando pueblos, sierras y demás 
 ![foto3][foto3]
 
 A eso de las 14:00 empezamos el camino de bajada. El goteo de gente subiendo y bajando a la montaña
-es constante. También alguna persona corriendo; nos sorprendió cruzardos con un deportista que
-subió y bajó de la cima 4 veces en un suspiro de tiempo. Nadie en nuestro equipo tiene esa
+aún era constante. También alguna persona corriendo; nos sorprendió cruzardos con un deportista que
+subió y bajó de la cima 4 veces en un suspiro de tiempo. Nadie en nuestro equipo tenía esa
 capacidad. Y desde luego, nuestras intenciones eran mucho más contemplativas.
 
 Finalmente, a las 16:00, llegamos de vuelta al aparcamiento. Las sensaciones eran muy buenas y
