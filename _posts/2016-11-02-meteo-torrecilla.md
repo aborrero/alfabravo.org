@@ -24,15 +24,16 @@ estos tres pueblos sobre la Sierra de las Nieves y que a nivel meteorológico
 es bastante interesante; nos permitirán hacernos una idea clara sobre lo que
 podemos encontrarnos en la propia montaña.
 
-Hay que tener en cuenta que en la montaña influyen otros factores sobre la
-meteorología como la altitud y la propia orografía del terreno.
+Hay que tener en cuenta que en el monte influyen otros factores sobre la meteorología, como la
+altitud y la propia orografía del terreno. Una predicción meteorológica para un pueblo puede ser
+bastante diferente a la una cima de montaña cercana.
 
-Las fuentes principales de datos meteorológicos que suelo consultar son:
+Las fuentes principales de datos meteorológicos que suelo consultar son las siguientes, para
+lugares concretos (pueblos):
 
  * [AEMET][aemet]: la agencia estatal de meteorología, predicciones para 7 dias
  * [tiempo.com][tiempo.com]: servicio independiente, predicciones a 14 dias
  * [eltiempo.es][eltiempo.es]: servicio también independiente, predicciones a 14 dias
- * [meteoexploration.com][me.com]: contiene predicciones de algunas montañas concretas
 
 Y combinándolos, obtenemos la siguiente información para analizar:
 
@@ -48,15 +49,27 @@ Y combinándolos, obtenemos la siguiente información para analizar:
 | Tolox		| tiempo.com	| [link][tiempo.com_tolox]	|
 | Tolox		| eltiempo.es	| [link][eltiempo.es_tolox]	|
 
+Para consultar información detallada sobre sitios arbitrarios, e incluso montañas en particular:
+
+ * [windy.com][windy]: web detallada y completa con comparativa de predicciones para cualquier lugar
+ * [meteoexploration.com][me.com]: contiene predicciones de algunas montañas recurrentes
+
+<center>
+<iframe width="700" height="400"
+        src="https://embed.windy.com/embed2.html?lat=36.646&lon=-5.008&zoom=10&level=surface&overlay=wind&menu=&message=&marker=&calendar=24&pressure=&type=map&location=coordinates&detail=true&detailLat=36.692&detailLon=-5.009&metricWind=km%2Fh&metricTemp=%C2%B0C&radarRange=-1"
+        frameborder="0">
+</iframe>
+</center>
+
 Los datos que ofrece MeteoExploration son bastante buenos, dado que incluyen
 información sobre isotermas, cota de nieve, viento en altura, etc. Sin embargo
 también he encontrado veces que esta predicción ha fallado estrepitosamente.
 
-<div class="iframeWrapper">
+<center>
 <iframe width="450" height="350" frameborder="0" scrolling="no"
-	src="http://www.meteoexploration.com/mountain/getweather.php?code=IBP040&lang=es&si=Metric&wgsz=1">
+	src="https://meteoexploration.com/mountain/getweather.php?code=IBP040&lang=es&si=Metric&wgsz=1">
 </iframe>
-</div>
+</center>
 
 Hay que tener en cuenta que la precisión a más de 6 días es realmente pobre
 y debe tomarse con cuidado.
@@ -88,3 +101,4 @@ A continuación dejo algunos otros artículos interesantes sobre meteorología:
 [aristasur.com]:		http://www.aristasur.com/contenido/como-se-miden-las-precipitaciones-en-meteorologia
 [montanasegura.com]:		http://www.montanasegura.com/consulta-la-meteorologia/
 [aemet.es_windchill]:		http://www.aemet.es/es/conocermas/montana/detalles/sensaciontermica
+[windy]:			https://windy.com
