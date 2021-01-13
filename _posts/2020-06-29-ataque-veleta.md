@@ -48,7 +48,7 @@ para picotear algunos frutos secos.
 
 ![En el refugio][ref1]
 
-Las vistas que no presenta hoy el monte son espectaculares. Con una atmósfera tan cristalina,
+Las vistas que nos presenta hoy el monte son espectaculares. Con una atmósfera tan cristalina,
 tenemos una visión kilométrica a nuestro alrededor. Por allí cerca asoma [La Maroma][maroma], otra
 montaña que también conocemos. Y en un primer plano, más protagonista, podemos disfrutar del
 telescopio del [Instituto de Radioastronomía Milimétrica][wiki_iram].
