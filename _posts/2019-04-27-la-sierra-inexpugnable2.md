@@ -9,7 +9,7 @@ tags:	[aventuras, ventisca, montaña]
 
 **_Este artículo está escrito por Salvador Castillo Posada._**
 
-Siguiendo los [hecho narrados en la primera parte][pt1], durante la tarde la
+Siguiendo los [hechos narrados en la primera parte][pt1], durante la tarde la
 tormenta aparentaba no querer amainar. No era muy fuerte,
 pero el frío hizo que todas las expediciones estuvieran reunidas en el
 salón-comedor del Refugio Poqueira, cerca de la chimenea. Hay muchas
