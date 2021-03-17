@@ -97,8 +97,8 @@ que ellos si atacaran la cima, y eso hicieron. Mantendríamos el contacto con lo
 para eso los llevábamos.
 
 Cuando marcharon para arriba, yo me quedé reposando un poco más. Charlé con una pareja de
-montañeros que pasaron por allí con el objetivo de pasar la noche en la montaña. Aunque bien de
-ánimos, estaba realmente cansado. No me apetecía nada desandar el último kilómetro de nieve
+montañeros que surgieron por allí con el objetivo de pasar la noche en la montaña. Aunque bien de
+ánimos, yo estaba realmente cansado. No me apetecía nada desandar el último kilómetro de nieve
 primaveral, sería una tortura. Mientras reflexionaba sobre estas posibilidades, apareció por el
 refugio un sanitario de la estación de esquí buscando a esquiadores rezagados, ya que iban a cerrar
 los telesillas. Hablé con él, y estuve tentado de comentarle mi situación de cansancio y fatiga.
