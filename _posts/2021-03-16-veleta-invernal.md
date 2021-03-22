@@ -170,6 +170,17 @@ Disfrutar de una experiencia en la alta montaña invernal, y aprender de ella, e
 que buscábamos con esta aventura. Era la progresión más natural después de
 [subir en verano][verano]. El objetivo estaba cumplido. Yo volveré y la subiré.
 
+Un video resumen de la actividad:
+
+<div class="iframeWrapper">
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/lCVMVZnDNGY"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</div>
+<br/>
 
 El track GPS de referencia:
 
