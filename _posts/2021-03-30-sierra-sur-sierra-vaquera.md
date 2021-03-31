@@ -10,21 +10,21 @@ tags:	[senderismo]
 El pasado 28 de febrero de 2021 nos agrupamos un equipo de senderismo, Los Extraviaos, para visitar
 la Sierra Sur de Sevilla. En concreto, estábamos interesados en una ruta sencilla y sin
 complicaciones que transita por el paraje llamado Sierra Vaquera, entre la localidad de Coripe y la
-pedanía de La Muela. Elegimos esta ruta precisamente por su sencillez. Nuestro objetivo no era más
-que dar un tranquilo paseo por el monte, estirar las piernas y respirar el aire del monte.
+pedanía de La Muela. Elegimos esta actividad precisamente por su sencillez. Nuestro objetivo no era
+más que dar un tranquilo paseo por el monte, estirar las piernas y respirar el aire del campo.
 
 <!--more-->
 
 Empezamos a andar a eso de las 10:00 de la mañana, con un día que se nos presentó soleado y fresco,
 estupendo para el senderismo de base. Curiosamente, la ruta tenía el desnivel de bajada al inicio,
-y el de subida al final. Esto es contrario a lo que solemos encontrar en rutas de montañas. Tenía
-sentido, considerando que el camino acababa en un río al fondo del valle.
+y el de subida al final. Esto es contrario a lo que solemos encontrar en rutas de montaña. Tenía
+sentido, considerando que el camino acababa en el río al fondo del valle.
 
-La totalidad de la ruta circulaba por pista forestal de tierra. De hecho, nos cruzamos a un par de
-vehículos particulares circulando por allí y también a un grupo de ciclistas en bicis de montaña.
+La totalidad del camino era pista forestal de tierra. De hecho, nos cruzamos a un par de vehículos
+particulares circulando por allí y también a un grupo de ciclistas en bicis de montaña.
 Pudimos incluso ver a otros senderistas realizando la misma ruta que nosotros.  Este no era un
 sitio especialmente famoso o conocido, y ver a otras gentes me resultó llamativo. De hecho, pudimos
-encontrar por el camino puntos de referencias y  señalizaciones, indicativo de que había cierto
+encontrar por la vereda puntos de referencias y  señalizaciones, indicativo de que había cierto
 nivel de mantenimiento en el paraje.
 
 ![Equipo][equipo]
