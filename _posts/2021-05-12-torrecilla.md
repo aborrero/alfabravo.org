@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Calurosa sobida al Torrecilla"
+title:  "Calurosa subida al Torrecilla"
 date:   2021-05-12 19:26:00 +0200
 tags:	[montaña]
 ---
