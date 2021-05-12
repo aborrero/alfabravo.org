@@ -65,7 +65,7 @@ Al poco llegamos al pozo de nieves de Puerto Oso. Allí propuse tomar una varian
 tomando el camino de la Cañada de Enmedio hasta la Cañada del Cuerno. Eso hicimos, pero tengo que
 reconocer que no me gustó particularmente la zona. Yo ya había estado por este mismo tramo hace
 unos años [en una nevada][invernal]. Creo que la variante no me gustó demasiado ni entonces ni
-ahora, además de que nos expuso bastante más expuesta al sol de lo que me hubiera gustado.
+ahora, además de que nos tuvo bastante más expuestos al sol de lo que me hubiera gustado.
 
 Sin más novedades llegamos al aparcamiento a eso de las 17:00, con las piernas y los pies
 generosamente cansados, según marca la tradición de esta montaña. La valoración de la jornada por
