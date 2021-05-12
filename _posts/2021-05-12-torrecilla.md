@@ -56,7 +56,7 @@ uso tiene a veces.
 Paramos a almorzar y descansar en la base de la cumbre, como es tradicional. Estuvimos allí un buen
 rato, disfrutando. Cuando iniciamos la marcha nos dimos cuenta de que en ese momento era cuando
 íbamos a empezar a sentir el peso del calor de la jornada. Era la zona más expuesta a los
-elementos, sin una sombra, y en cuando la brisa dejaba de soplar la temperatura ascendía
+elementos, sin una sombra, y en cuanto la brisa dejaba de soplar la temperatura ascendía
 rápidamente. Ciertamente hacía calor. Ya no me arrepentía tanto de no haber llevado el cortavientos
 en la mochila. Algunos compañeros se estaban tostando la piel al no llevar suficiente protección
 solar.
