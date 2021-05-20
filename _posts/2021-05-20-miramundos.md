@@ -14,6 +14,8 @@ almorzar. Nos comimos el bocadillo tirados en el aparcamiento de una gasolinera 
 parte, en la autopista. El suelo de asfalto, aparte de mugriento, alimentaba el intenso calor del
 día. Llegamos a ver 32º C en el termómetro del coche, quizás demasiado para la fecha.
 
+<!--more-->
+
 Nuestro objetivo era dormir en la zona alta de Sierra Mágina, en concreto en el refugio Miramundos.
 Teníamos las tiendas de campaña preparadas. Aún no habíamos decidido si las llevaríamos con
 nosotros o no. Si el refugio estaba lleno, o impracticable, necesitaríamos las tiendas para poder
@@ -21,8 +23,6 @@ dormir. Pero si pudiéramos hacer uso de la choza, entonces cargar con las tiend
 sobrepeso del que estábamos deseando prescindir. Las dudas se nos aclararon cuando llegamos a la
 sierra. Al no ver a nadie en las inmediaciones, ni ningún coche aparcado, decidimos dejarlas abajo.
 En mi caso, me ahorré 2.5 kg, quedando mi mochila en unos 15 kg.
-
-<!--more-->
 
 Para la actividad habíamos elegido un horario que minimizara la exposición al sol, y por tanto el
 calor. Cuando llegamos al monte a eso de las 18:00 no pudimos evitar desmotivarnos con la
