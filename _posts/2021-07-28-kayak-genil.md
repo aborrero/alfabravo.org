@@ -117,6 +117,18 @@ cansados y magullados, así que preferimos no responder de inmediato. Un deporte
 disfruta cuando se producen incidentes desagradables. Porque entonces, entre otras cosas, subyace
 la cuestión real: ¿Qué valor tiene tomar tantos riesgos?
 
+Un video resumen de la actividad:
+
+<div class="iframeWrapper">
+<iframe width="560" height="315"
+	src="https://www.youtube-nocookie.com/embed/6SWUg5GTHlc"
+	frameborder="0"
+	allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+	allowfullscreen>
+</iframe>
+</div>
+<br/>
+
 
 [wiki_genil]:	https://es.wikipedia.org/wiki/R%C3%ADo_Genil
 [wiki_iznajar]: https://es.wikipedia.org/wiki/Embalse_de_Izn%C3%A1jar
