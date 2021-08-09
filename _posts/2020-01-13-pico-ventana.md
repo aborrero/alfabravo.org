@@ -58,12 +58,15 @@ acabado tremendamente contentos con la aventura de hoy :-)
 Además, los pueblos de Montejaque y Benaoján son ciertamente bonitos, una
 alegría pasear por sus calles.
 
-Referencia:
+Track GPS de referencia:
 
-[Wikiloc - Kminante del Sur -  Pico Ventana en Sierras de Benaoján y de Juan Diego (Málaga)][ref]
-
+<div class="iframeWikilocWrapper">
+<iframe frameBorder="0" scrolling="no"
+  src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&measures=on&title=on&near=on&images=off&maptype=H&id=6352864"
+  width="500" height="400">
+</iframe>
+</div>
 
 [wiki]:		https://es.wikipedia.org/wiki/Pico_ventana
-[ref]:		https://es.wikiloc.com/rutas-senderismo/pico-ventana-en-sierras-de-benaojan-y-de-juan-diego-malaga-6352864
 [arturo]:	{{site.url}}/assets/20190113-ventana-arturo.png
 [cima]:		{{site.url}}/assets/20190113-ventana-cima.png
