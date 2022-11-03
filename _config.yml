@@ -1,15 +1,15 @@
 #
 # Site settings
 #
-title:			alfabravo.org
-email:			arturo.borrero.glez@gmail.com
+title:          alfabravo.org
+email:          arturo.bg@arturo.bg
 description: >
   Este es el blog 'alfabravo', con tematica relacionada con aventuras,
   viajes y experiencias.
-baseurl:		""
-url:			"https://alfabravo.org"
-twitter_username:	arturoborrero
-github_username:	aborrero
+baseurl:           ""
+url:              "https://alfabravo.org"
+twitter_username: arturoborrero
+github_username:  aborrero
 
 #
 # Build settings
