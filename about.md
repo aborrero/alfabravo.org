@@ -28,10 +28,10 @@ Así mismo, se publican articulos sobre:
 * reseñas de otras webs o libros
 
 
-Todo el contenido del sitio tiene doble licencia:
+Todo el contenido del sitio tiene doble licencia, copyleft:
 
 * Licencia [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html)
-* Licencia [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0) ![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)
+* Licencia [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0)
 
 Se puede acceder al código fuente en [GitHub](https://github.com/aborrero/alfabravo.org)
 
