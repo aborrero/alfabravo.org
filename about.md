@@ -38,4 +38,8 @@ Se puede acceder al código fuente en [GitHub](https://github.com/aborrero/alfab
 Tengo otro blog sobre tecnología, escrito en inglés:
 [ral-arturo.org][ral-arturo.org].
 
+Contacto:
+* email: [arturo.bg@arturo.bg](mailto:arturo.bg@arturo.bg)
+* mastodon: <a rel="me" href="https://mas.to/@arturobg">https://mas.to/@arturobg</a>
+
 [ral-arturo.org]:		http://ral-arturo.org
