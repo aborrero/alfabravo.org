@@ -8,7 +8,6 @@ description: >
   viajes y experiencias.
 baseurl:           ""
 url:              "https://alfabravo.org"
-twitter_username: arturoborrero
 github_username:  aborrero
 mastodon_username: arturobg
 mastodon_server: mas.to
