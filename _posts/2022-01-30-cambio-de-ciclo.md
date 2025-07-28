@@ -8,7 +8,7 @@ tags:	[aventuras, montaña]
 ![Cima del pico Torrecilla][torrecilla]
 
 Se avecina un cambio de ciclo en mis actividades, viajes y aventuras. Si todo va bien, en abril de
-2021 llegará a nuestra vida un bebé, una personita, nuestro hijo.
+2022 llegará a nuestra vida un bebé, una personita, nuestro hijo.
 
 El impacto en las aficiones, organización familiar, tiempo libre, etcétera se ha hecho notar desde
 los primeros meses del embarazo. La temporada de montaña 2021/2022 no ha empezado para mí como en
